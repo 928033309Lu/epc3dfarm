@@ -1,0 +1,108 @@
+{
+    "turbineSummary": {
+        "turbineElevationRage": "1367m~1487m",
+        "totalCapacity": 100.0,
+        "table": [
+            {
+                "turbineModel": "GW140/2500",
+                "hubHeight": 90.0,
+                "modelCount": 40.0,
+                "baseDia": "18.0",
+                "baseDp": "3.3"
+            }
+        ]
+    },
+    "roadSummary": {
+        "inFarmRoadLength": 51709.0,
+        "primaryRoadCount": 16,
+        "secondaryRoadCount": 11,
+        "farmEntryRoadLength": 9846.0,
+        "totalArea": 232690.5,
+        "roadMaterial": "150mm\u7802\u5939\u77f3",
+        "totalCut": 0.0,
+        "totalFill": 0.0
+    },
+    "powerSummary": {
+        "circuitCount": 4,
+        "wireType": [
+            "JL/G1A-240/30-24/7",
+            "JL/G1A-95/20-7/7"
+        ],
+        "wireLength": 35656.0,
+        "voltage": "35kV",
+        "table": [
+            {
+                "circuit": "single",
+                "tensionTower": 51,
+                "suspensionTower": 84,
+                "jointTower": 4
+            },
+            {
+                "circuit": "double",
+                "tensionTower": 6,
+                "suspensionTower": 0,
+                "jointTower": 0
+            }
+        ]
+    },
+    "stationInfo": {
+        "id": "s1",
+        "properties": {
+            "lv": "35kV",
+            "hv": "110kV",
+            "size": "150mx80m",
+            "elevation": 1403.7,
+            "cut": "",
+            "fill": "",
+            "transformers": [
+                "SZ11-100000/110",
+                "SZ11-50000/110"
+            ],
+            "disToGrid": "30km",
+            "xyvertices": [
+                [
+                    35625471.0,
+                    4139161.0
+                ],
+                [
+                    35625471.0,
+                    4139011.0
+                ],
+                [
+                    35625391.0,
+                    4139011.0
+                ],
+                [
+                    35625391.0,
+                    4139161.0
+                ]
+            ],
+            "xyentry": [
+                35625431.0,
+                4139011.0
+            ]
+        },
+        "coordinate": [
+            [
+                106.41783953960686,
+                37.37589923511426,
+                1403.7
+            ],
+            [
+                106.4178141028855,
+                37.3745481128551,
+                1403.7
+            ],
+            [
+                106.4169111722598,
+                37.374558935821206,
+                1403.7
+            ],
+            [
+                106.41693659279508,
+                37.37591005860614,
+                1403.7
+            ]
+        ]
+    }
+}

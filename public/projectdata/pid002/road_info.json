@@ -1,0 +1,350 @@
+[
+    {
+        "indexInLayer": 20,
+        "id": "\u8fdb\u573a\u9053\u8def",
+        "properties": {
+            "mainRoad": "\u8fdb\u573a\u9053\u8def",
+            "roadClass": 0,
+            "length": 9846.0,
+            "area": 44307.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 19,
+        "id": "\u8fdb\u7ad9\u9053\u8def",
+        "properties": {
+            "mainRoad": "\u8fdb\u7ad9\u9053\u8def",
+            "roadClass": 0,
+            "length": 116.0,
+            "area": 522.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 24,
+        "id": "DL9",
+        "properties": {
+            "mainRoad": "9",
+            "roadClass": 0,
+            "length": 3001.0,
+            "area": 13504.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 7,
+        "id": "DL8",
+        "properties": {
+            "mainRoad": "8",
+            "roadClass": 0,
+            "length": 1264.0,
+            "area": 5688.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 6,
+        "id": "DL7",
+        "properties": {
+            "mainRoad": "7",
+            "roadClass": 0,
+            "length": 1217.0,
+            "area": 5476.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 11,
+        "id": "DL6B",
+        "properties": {
+            "mainRoad": "6",
+            "roadClass": 1,
+            "length": 73.0,
+            "area": 328.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 23,
+        "id": "DL6",
+        "properties": {
+            "mainRoad": "6",
+            "roadClass": 0,
+            "length": 1859.0,
+            "area": 8365.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 5,
+        "id": "DL5",
+        "properties": {
+            "mainRoad": "5",
+            "roadClass": 0,
+            "length": 6950.0,
+            "area": 31275.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 2,
+        "id": "DL4",
+        "properties": {
+            "mainRoad": "4",
+            "roadClass": 0,
+            "length": 2111.0,
+            "area": 9499.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 22,
+        "id": "DL3",
+        "properties": {
+            "mainRoad": "3",
+            "roadClass": 0,
+            "length": 1238.0,
+            "area": 5571.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 3,
+        "id": "DL2B2",
+        "properties": {
+            "mainRoad": "2",
+            "roadClass": 1,
+            "length": 36.0,
+            "area": 162.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 15,
+        "id": "DL2B1",
+        "properties": {
+            "mainRoad": "2",
+            "roadClass": 1,
+            "length": 67.0,
+            "area": 301.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 28,
+        "id": "DL2",
+        "properties": {
+            "mainRoad": "2",
+            "roadClass": 0,
+            "length": 3790.0,
+            "area": 17055.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 14,
+        "id": "DL1B",
+        "properties": {
+            "mainRoad": "1",
+            "roadClass": 1,
+            "length": 78.0,
+            "area": 351.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 18,
+        "id": "DL17",
+        "properties": {
+            "mainRoad": "1",
+            "roadClass": 0,
+            "length": 3299.0,
+            "area": 14845.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 10,
+        "id": "DL16B",
+        "properties": {
+            "mainRoad": "16",
+            "roadClass": 1,
+            "length": 62.0,
+            "area": 279.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 0,
+        "id": "DL16",
+        "properties": {
+            "mainRoad": "16",
+            "roadClass": 0,
+            "length": 2005.0,
+            "area": 9022.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 1,
+        "id": "DL15",
+        "properties": {
+            "mainRoad": "15",
+            "roadClass": 0,
+            "length": 932.0,
+            "area": 4194.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 12,
+        "id": "DL14B",
+        "properties": {
+            "mainRoad": "14",
+            "roadClass": 1,
+            "length": 345.0,
+            "area": 1552.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 8,
+        "id": "DL14",
+        "properties": {
+            "mainRoad": "14",
+            "roadClass": 0,
+            "length": 1542.0,
+            "area": 6939.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 17,
+        "id": "DL13B2",
+        "properties": {
+            "mainRoad": "13",
+            "roadClass": 1,
+            "length": 60.0,
+            "area": 270.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 16,
+        "id": "DL13B1",
+        "properties": {
+            "mainRoad": "13",
+            "roadClass": 1,
+            "length": 43.0,
+            "area": 193.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 27,
+        "id": "DL13",
+        "properties": {
+            "mainRoad": "13",
+            "roadClass": 0,
+            "length": 1554.0,
+            "area": 6993.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 9,
+        "id": "DL12B2",
+        "properties": {
+            "mainRoad": "12",
+            "roadClass": 1,
+            "length": 435.0,
+            "area": 1957.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 26,
+        "id": "DL12B1",
+        "properties": {
+            "mainRoad": "12",
+            "roadClass": 1,
+            "length": 592.0,
+            "area": 2664.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 25,
+        "id": "DL12",
+        "properties": {
+            "mainRoad": "12",
+            "roadClass": 0,
+            "length": 3018.0,
+            "area": 13581.0,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 4,
+        "id": "DL11",
+        "properties": {
+            "mainRoad": "11",
+            "roadClass": 0,
+            "length": 2311.0,
+            "area": 10399.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 13,
+        "id": "DL5B",
+        "properties": {
+            "mainRoad": "10",
+            "roadClass": 1,
+            "length": 35.0,
+            "area": 157.5,
+            "cut": "",
+            "fill": ""
+        }
+    },
+    {
+        "indexInLayer": 21,
+        "id": "DL1",
+        "properties": {
+            "mainRoad": "1",
+            "roadClass": 0,
+            "length": 3830.0,
+            "area": 17235.0,
+            "cut": "",
+            "fill": ""
+        }
+    }
+]

@@ -1,0 +1,26 @@
+$main-color:#4A4A52;
+$text-color:rgba(240, 240, 240, 1);
+$btn-color:rgba(221, 221, 221, 1);
+$header-color:rgba(52, 52, 57, 1);
+$el-border-color:rgba(108, 108, 108, 1);
+$el-border-hover-color: rgba(52, 52, 57, 1);
+$el-bg-opacity:0.9;
+
+@mixin btn-font {
+    font-size: 12px;
+    font-family: SourceHanSansCN-Normal;
+    font-weight: 400;
+}
+
+@mixin default-font {
+    font-size: 14px;
+    font-family: SourceHanSansCN-Normal;
+    font-weight: 400;
+}
+
+@mixin toolbox-tree-text {
+    @include default-font;
+    color: rgba(240, 240, 240, 1);
+    border: unset;
+    user-select: none;
+}

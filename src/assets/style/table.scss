@@ -1,0 +1,39 @@
+.common-table{
+  border:1px solid rgba(108, 108, 108, .8)!important;
+  &:before,&:after{
+    background-color:rgba(108, 108, 108, .8)!important;
+  }
+  .caret-wrapper{
+    height:24px!important;
+    .sort-caret.ascending{
+      top:0px;
+    }
+    .sort-caret.descending{
+      bottom:2px;
+    }
+  }
+  *{
+    color:#fff!important;
+  }
+  th,tr{
+    background:rgba(52,52,57,.8)!important;
+  }
+  tr{
+    border-bottom:2px solid rgba(108, 108, 108, .8)!important;
+    &:hover{
+       background-color:rgba(52,52,57,.8)!important;
+       >td{
+         background:none!important;
+       }
+     }
+  }
+  tr th,tr td{
+    padding:0;
+    border-color:rgba(108, 108, 108, .8)!important;
+    .cell{
+      padding:0 5px;
+      height:24px;
+      line-height:24px;
+    }
+  }
+}

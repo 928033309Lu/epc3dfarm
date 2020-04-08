@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, shrink-to-fit=no" />
+	<title><%= process.env.APP_TITLE %></title>
+	<link rel="stylesheet" href="/css/loading.css">
+	<style>
+		html,
+		body,
+		#mapContainer {
+			width: 100%;
+			height: 100%;
+			margin: 0px;
+			padding: 0px;
+			overflow: hidden;
+		}
+
+		#app {
+			position: fixed;
+			width: 315px;
+			height: 100%;
+			margin: 0px;
+			padding: 0px;
+			overflow: hidden;
+			border-right: 1px solid rgba(0, 0, 0, 1);
+		}
+	</style>
+</head>
+
+
+<body onload="onload()">
+	<div id="loading-text">
+		<span class="letter"><%= process.env.APP_TITLE %></span>
+	</div>
+	<div id="loading-continer">
+		<div id="loading-left"> </div>
+		<div id="loading-right"> </div>
+	</div>
+	<script>
+		function onload() {
+			// 页面加载完成后 为loading添加隐藏动画，之后移除loading
+			document.getElementById("loading-left").style.animation =
+				"hideloading 0.5s"
+			document.getElementById("loading-right").style.animation =
+				"hideloading 0.5s"
+			document.getElementById("loading-text").style.animation =
+				"hidetext 0.5s"
+			setTimeout(function () {
+				document.body.removeChild(document.getElementById("loading-continer"))
+				document.body.removeChild(document.getElementById("loading-text"))
+			}, 500);
+		}
+
+		// 显示粒子效果
+		let layers = 20;
+		let starsPerLayer = 80;
+
+		function renderLayers() {
+			for (let i = 0; i < layers; i++) {
+				let newLayer = document.createElement('div');
+				newLayer.classList.add('layer');
+				populateParticles(starsPerLayer, newLayer);
+				document.getElementById('loading-continer').appendChild(newLayer);
+			}
+		}
+
+		function populateParticles(amt, container) {
+			for (let i = 0; i < amt; i++) {
+				let
+					el = document.createElement('div');
+				el.classList.add('star');
+				let top = Math.floor(Math.random() *
+					window.innerHeight);
+				let left = Math.floor(Math.random() * window.innerWidth);
+				el.style.top = top + 'px';
+				el.style.left = left + 'px';
+				container.appendChild(el);
+			}
+		}
+		renderLayers();
+	</script>
+	<div id="mapContainer"> </div>
+	<div id="app"> </div>
+	<noscript>
+		<style>
+			.noscript {
+				position: absolute;
+				top: 0px;
+				background: white;
+				text-align: center;
+				vertical-align: middle;
+
+				z-index: 100000;
+				background: white;
+				width: 100%;
+				height: 100%;
+			}
+		</style>
+		<div class="noscript">
+			当前浏览器不支持或已禁用JavaScript，请使用最新版本的现代浏览器（如Chrome、Firefox）或启用浏览器的JavaScript，然后重新访问本页面。
+		</div>
+	</noscript>
+	<link rel="stylesheet" href="http://at.alicdn.com/t/font_1361659_eyfsuaztknw.css">
+	<script src="/vendors/goldwind.jsutils.js"> </script>
+	<!-- Cesium相关 -->
+	<link rel="stylesheet" href="/vendors/WindEarth/Widgets/widgets.css">
+	<script src="/vendors/WindEarth/WindEarth.js"> </script>
+	<script src="/vendors/echarts.min.js"> </script>
+</body>
+
+</html>

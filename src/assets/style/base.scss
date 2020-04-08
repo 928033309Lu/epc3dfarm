@@ -1,0 +1,72 @@
+.unselect {
+    user-select: none;
+}
+
+
+.iconBtn {
+    cursor: pointer;
+}
+
+.iconBtn:hover {
+    color: aqua
+}
+
+.custom-btn {
+    width: 50px;
+    height: 20px;
+    background: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(108, 108, 108, 1);
+    border-radius: 2px;
+    color: rgba(240, 240, 240, 1);
+    @include btn-font;
+}
+
+.custom-btn:hover,
+.custom-btn-selected {
+    background: rgba(108, 108, 108, 1) !important;
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.map-btn {
+    height: 50px;
+    width: 44px;
+    color: $btn-color;
+    padding: unset;
+    border-radius: unset;
+    background: unset;
+    border: unset;
+    cursor: pointer;
+    @include btn-font;
+
+    i {
+        padding: 0 0 7px;
+    }
+}
+
+.map-btn-horizontal {
+    height: 28px;
+    width: 56px;
+    padding: 0px;
+    color: $btn-color;
+    font-size: 13px;
+
+    i {
+        display: inline;
+        font-size: 14px;
+        padding: 0 7px 0 0;
+    }
+}
+
+.map-btn:hover,
+.map-btn:focus {
+    background: rgba(28, 28, 31, 1);
+    border: 1px solid rgba(108, 108, 108, 1);
+    outline: none;
+    /* opacity: 0.5; */
+}
+
+.map-btn-icon {
+    display: table;
+    width: 100%;
+    font-size: 14px;
+}

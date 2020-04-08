@@ -1,0 +1,3778 @@
+[
+    {
+        "uid": 1,
+        "towerID": "J1",
+        "properties": {
+            "elevation": 1402.0,
+            "serial": 1,
+            "angle": 68.1045581238927,
+            "nominalHeight": 15.0,
+            "kValue": 1.36,
+            "towerModel": "35B10-SJ4",
+            "towerClass": 1,
+            "lineID": [
+                "1",
+                "2"
+            ],
+            "start": 0,
+            "xycoordinate": [
+                35625500.22,
+                4139129.478
+            ]
+        },
+        "coordinate": [
+            106.41816399398394,
+            37.37561134634398,
+            1402.0
+        ]
+    },
+    {
+        "uid": 2,
+        "towerID": "J2",
+        "properties": {
+            "elevation": 1399.0,
+            "serial": 2,
+            "angle": 288.3257472028744,
+            "nominalHeight": 15.0,
+            "kValue": 0.907,
+            "towerModel": "35B10-SJ4",
+            "towerClass": 1,
+            "lineID": [
+                "1",
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625590.718,
+                4139165.636
+            ]
+        },
+        "coordinate": [
+            106.4191915629748,
+            37.37592478381286,
+            1399.0
+        ]
+    },
+    {
+        "uid": 3,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1398.0,
+            "serial": 3,
+            "angle": 250.27568401752458,
+            "nominalHeight": 15.0,
+            "kValue": 0.812,
+            "towerModel": "35B10-SJ4",
+            "towerClass": 1,
+            "lineID": [
+                "1",
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625592.002,
+                4139243.579
+            ]
+        },
+        "coordinate": [
+            106.4192192861122,
+            37.376626679475365,
+            1398.0
+        ]
+    },
+    {
+        "uid": 4,
+        "towerID": "J4",
+        "properties": {
+            "elevation": 1398.0,
+            "serial": 4,
+            "angle": 126.91486917183333,
+            "nominalHeight": 21.0,
+            "kValue": 1.037,
+            "towerModel": "35B10-SJ4",
+            "towerClass": 1,
+            "lineID": [
+                "1",
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625313.228,
+                4139339.34
+            ]
+        },
+        "coordinate": [
+            106.41608899940937,
+            37.3775269691598,
+            1398.0
+        ]
+    },
+    {
+        "uid": 5,
+        "towerID": "G5",
+        "properties": {
+            "elevation": 1409.0,
+            "serial": 5,
+            "angle": 270.0005124417813,
+            "nominalHeight": 15.0,
+            "kValue": 0.803,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625185.5795,
+                4139107.0637
+            ]
+        },
+        "coordinate": [
+            106.41460891741791,
+            37.37545198825676,
+            1409.0
+        ]
+    },
+    {
+        "uid": 6,
+        "towerID": "J5",
+        "properties": {
+            "elevation": 1416.0,
+            "serial": 6,
+            "angle": 281.8635205188749,
+            "nominalHeight": 15.0,
+            "kValue": 0.897,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625063.038,
+                4138884.1
+            ]
+        },
+        "coordinate": [
+            106.4131881322307,
+            37.37346018086401,
+            1416.0
+        ]
+    },
+    {
+        "uid": 7,
+        "towerID": "G7",
+        "properties": {
+            "elevation": 1418.0,
+            "serial": 7,
+            "angle": 90.00000478494361,
+            "nominalHeight": 24.0,
+            "kValue": 1.274,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624876.2597,
+                4138785.9427
+            ]
+        },
+        "coordinate": [
+            106.41106349488138,
+            37.372601202747894,
+            1418.0
+        ]
+    },
+    {
+        "uid": 8,
+        "towerID": "G8",
+        "properties": {
+            "elevation": 1419.0,
+            "serial": 8,
+            "angle": 270.0000094819434,
+            "nominalHeight": 24.0,
+            "kValue": 0.928,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624645.2211,
+                4138664.5253
+            ]
+        },
+        "coordinate": [
+            106.40843545430468,
+            37.37153862026525,
+            1419.0
+        ]
+    },
+    {
+        "uid": 9,
+        "towerID": "J6",
+        "properties": {
+            "elevation": 1429.0,
+            "serial": 9,
+            "angle": 275.9709978513253,
+            "nominalHeight": 15.0,
+            "kValue": 0.835,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624424.553,
+                4138548.558
+            ]
+        },
+        "coordinate": [
+            106.40592544506964,
+            37.37052367814097,
+            1429.0
+        ]
+    },
+    {
+        "uid": 10,
+        "towerID": "G10",
+        "properties": {
+            "elevation": 1436.0,
+            "serial": 10,
+            "angle": 90.00000338719212,
+            "nominalHeight": 21.0,
+            "kValue": 1.125,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624128.8433,
+                4138469.87
+            ]
+        },
+        "coordinate": [
+            106.40257483914648,
+            37.36985452441113,
+            1436.0
+        ]
+    },
+    {
+        "uid": 11,
+        "towerID": "G11",
+        "properties": {
+            "elevation": 1442.0,
+            "serial": 11,
+            "angle": 270.00001836930215,
+            "nominalHeight": 18.0,
+            "kValue": 0.898,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623745.1939,
+                4138367.7813
+            ]
+        },
+        "coordinate": [
+            106.39822789696065,
+            37.3689862303584,
+            1442.0
+        ]
+    },
+    {
+        "uid": 12,
+        "towerID": "J7",
+        "properties": {
+            "elevation": 1444.0,
+            "serial": 12,
+            "angle": 280.0953161909753,
+            "nominalHeight": 15.0,
+            "kValue": 1.035,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623680.912,
+                4138350.676
+            ]
+        },
+        "coordinate": [
+            106.39749955979082,
+            37.36884072899099,
+            1444.0
+        ]
+    },
+    {
+        "uid": 13,
+        "towerID": "G13",
+        "properties": {
+            "elevation": 1450.0,
+            "serial": 13,
+            "angle": 89.99998997747687,
+            "nominalHeight": 15.0,
+            "kValue": 0.856,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623396.1628,
+                4138377.3949
+            ]
+        },
+        "coordinate": [
+            106.39429036810002,
+            37.36911933624822,
+            1450.0
+        ]
+    },
+    {
+        "uid": 14,
+        "towerID": "G14",
+        "properties": {
+            "elevation": 1457.0,
+            "serial": 14,
+            "angle": 269.99999585915657,
+            "nominalHeight": 15.0,
+            "kValue": 1.04,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623137.2999,
+                4138401.6849
+            ]
+        },
+        "coordinate": [
+            106.3913728982461,
+            37.36937254120789,
+            1457.0
+        ]
+    },
+    {
+        "uid": 15,
+        "towerID": "G15",
+        "properties": {
+            "elevation": 1463.0,
+            "serial": 15,
+            "angle": 269.99999892033486,
+            "nominalHeight": 21.0,
+            "kValue": 1.15,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622815.7126,
+                4138431.8605
+            ]
+        },
+        "coordinate": [
+            106.38774847333967,
+            37.369686999449826,
+            1463.0
+        ]
+    },
+    {
+        "uid": 16,
+        "towerID": "G16",
+        "properties": {
+            "elevation": 1470.0,
+            "serial": 16,
+            "angle": 269.99999942780147,
+            "nominalHeight": 15.0,
+            "kValue": 0.843,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622563.819,
+                4138455.4965
+            ]
+        },
+        "coordinate": [
+            106.38490950234538,
+            37.36993323171586,
+            1470.0
+        ]
+    },
+    {
+        "uid": 17,
+        "towerID": "J8",
+        "properties": {
+            "elevation": 1478.0,
+            "serial": 17,
+            "angle": 68.63300825464097,
+            "nominalHeight": 15.0,
+            "kValue": 1.198,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622253.38,
+                4138484.626
+            ]
+        },
+        "coordinate": [
+            106.38141066598435,
+            37.37023660023538,
+            1478.0
+        ]
+    },
+    {
+        "uid": 18,
+        "towerID": "G18",
+        "properties": {
+            "elevation": 1477.0,
+            "serial": 18,
+            "angle": 89.99999901354376,
+            "nominalHeight": 15.0,
+            "kValue": 0.922,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622096.2427,
+                4138711.5266
+            ]
+        },
+        "coordinate": [
+            106.37967462479642,
+            37.37230114214338,
+            1477.0
+        ]
+    },
+    {
+        "uid": 19,
+        "towerID": "G19",
+        "properties": {
+            "elevation": 1474.0,
+            "serial": 19,
+            "angle": 269.9999992563222,
+            "nominalHeight": 18.0,
+            "kValue": 1.019,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621925.4413,
+                4138958.1577
+            ]
+        },
+        "coordinate": [
+            106.37778751679986,
+            37.37454518200756,
+            1474.0
+        ]
+    },
+    {
+        "uid": 20,
+        "towerID": "G20",
+        "properties": {
+            "elevation": 1470.0,
+            "serial": 20,
+            "angle": 89.99999891881171,
+            "nominalHeight": 21.0,
+            "kValue": 1.078,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621733.5744,
+                4139235.2066
+            ]
+        },
+        "coordinate": [
+            106.37566753278115,
+            37.37706595224091,
+            1470.0
+        ]
+    },
+    {
+        "uid": 21,
+        "towerID": "J9",
+        "properties": {
+            "elevation": 1472.0,
+            "serial": 21,
+            "angle": 89.90903936302269,
+            "nominalHeight": 12.0,
+            "kValue": 1.033,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621592.991,
+                4139438.204
+            ]
+        },
+        "coordinate": [
+            106.37411410343954,
+            37.37891293099546,
+            1472.0
+        ]
+    },
+    {
+        "uid": 22,
+        "towerID": "G22",
+        "properties": {
+            "elevation": 1467.0,
+            "serial": 22,
+            "angle": 89.99999050763712,
+            "nominalHeight": 12.0,
+            "kValue": 0.87,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621473.8339,
+                4139612.3378
+            ]
+        },
+        "coordinate": [
+            106.37279771382067,
+            37.38049708946202,
+            1467.0
+        ]
+    },
+    {
+        "uid": 23,
+        "towerID": "G23",
+        "properties": {
+            "elevation": 1460.0,
+            "serial": 23,
+            "angle": 269.9999859925968,
+            "nominalHeight": 15.0,
+            "kValue": 1.001,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621330.3937,
+                4139821.9587
+            ]
+        },
+        "coordinate": [
+            106.37121298367019,
+            37.38240406842599,
+            1460.0
+        ]
+    },
+    {
+        "uid": 24,
+        "towerID": "G24",
+        "properties": {
+            "elevation": 1453.0,
+            "serial": 24,
+            "angle": 89.99997711674942,
+            "nominalHeight": 18.0,
+            "kValue": 0.966,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621145.1818,
+                4140092.6235
+            ]
+        },
+        "coordinate": [
+            106.36916664135812,
+            37.38486635063409,
+            1453.0
+        ]
+    },
+    {
+        "uid": 25,
+        "towerID": "G25",
+        "properties": {
+            "elevation": 1450.0,
+            "serial": 25,
+            "angle": 269.9999854796729,
+            "nominalHeight": 18.0,
+            "kValue": 0.841,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620987.0407,
+                4140323.7283
+            ]
+        },
+        "coordinate": [
+            106.36741929023768,
+            37.38696872223478,
+            1450.0
+        ]
+    },
+    {
+        "uid": 26,
+        "towerID": "J10",
+        "properties": {
+            "elevation": 1456.0,
+            "serial": 26,
+            "angle": 88.54173323995839,
+            "nominalHeight": 15.0,
+            "kValue": 1.134,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620829.429,
+                4140554.059
+            ]
+        },
+        "coordinate": [
+            106.36567769244716,
+            37.389064027356234,
+            1456.0
+        ]
+    },
+    {
+        "uid": 27,
+        "towerID": "G27",
+        "properties": {
+            "elevation": 1454.0,
+            "serial": 27,
+            "angle": 269.9999981884412,
+            "nominalHeight": 15.0,
+            "kValue": 1.009,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620687.7238,
+                4140811.6549
+            ]
+        },
+        "coordinate": [
+            106.36412002423359,
+            37.39140283198774,
+            1454.0
+        ]
+    },
+    {
+        "uid": 28,
+        "towerID": "G28",
+        "properties": {
+            "elevation": 1448.0,
+            "serial": 28,
+            "angle": 89.99999510152486,
+            "nominalHeight": 15.0,
+            "kValue": 0.955,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620595.6636,
+                4140979.0046
+            ]
+        },
+        "coordinate": [
+            106.3631080184839,
+            37.392922248879124,
+            1448.0
+        ]
+    },
+    {
+        "uid": 29,
+        "towerID": "T",
+        "properties": {
+            "elevation": 1447.0,
+            "serial": 29,
+            "angle": 269.99999484951957,
+            "nominalHeight": 15.0,
+            "kValue": 0.906,
+            "towerModel": "JT",
+            "towerClass": 2,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620445.0824,
+                4141252.7357
+            ]
+        },
+        "coordinate": [
+            106.36145261244536,
+            37.395407515858714,
+            1447.0
+        ]
+    },
+    {
+        "uid": 30,
+        "towerID": "J11",
+        "properties": {
+            "elevation": 1446.0,
+            "serial": 30,
+            "angle": 88.51904010985227,
+            "nominalHeight": 18.0,
+            "kValue": 1.352,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620316.876,
+                4141485.793
+            ]
+        },
+        "coordinate": [
+            106.36004309774391,
+            37.39752347879224,
+            1446.0
+        ]
+    },
+    {
+        "uid": 31,
+        "towerID": "G31",
+        "properties": {
+            "elevation": 1443.0,
+            "serial": 31,
+            "angle": 269.99999971603677,
+            "nominalHeight": 15.0,
+            "kValue": 0.95,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620247.8869,
+                4141657.4482
+            ]
+        },
+        "coordinate": [
+            106.35929211684729,
+            37.39907865027913,
+            1443.0
+        ]
+    },
+    {
+        "uid": 32,
+        "towerID": "G32",
+        "properties": {
+            "elevation": 1424.0,
+            "serial": 32,
+            "angle": 269.99999683019956,
+            "nominalHeight": 18.0,
+            "kValue": 0.882,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620101.7046,
+                4142021.1716
+            ]
+        },
+        "coordinate": [
+            106.3577007495215,
+            37.40237391704706,
+            1424.0
+        ]
+    },
+    {
+        "uid": 33,
+        "towerID": "G33",
+        "properties": {
+            "elevation": 1422.0,
+            "serial": 33,
+            "angle": 89.99999771165096,
+            "nominalHeight": 15.0,
+            "kValue": 0.867,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35619977.1512,
+                4142331.0788
+            ]
+        },
+        "coordinate": [
+            106.35634473132144,
+            37.405181602856146,
+            1422.0
+        ]
+    },
+    {
+        "uid": 34,
+        "towerID": "G34",
+        "properties": {
+            "elevation": 1425.0,
+            "serial": 34,
+            "angle": 89.99999807056051,
+            "nominalHeight": 15.0,
+            "kValue": 1.122,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35619869.0061,
+                4142600.1599
+            ]
+        },
+        "coordinate": [
+            106.35516727114329,
+            37.407619401807594,
+            1425.0
+        ]
+    },
+    {
+        "uid": 35,
+        "towerID": "J12",
+        "properties": {
+            "elevation": 1420.0,
+            "serial": 35,
+            "angle": 68.1045581238927,
+            "nominalHeight": 15.0,
+            "kValue": 0.822,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35619769.8239,
+                4142846.9401
+            ]
+        },
+        "coordinate": [
+            106.35408733180368,
+            37.409855151028054,
+            1420.0
+        ]
+    },
+    {
+        "uid": 36,
+        "towerID": "J1",
+        "properties": {
+            "elevation": 1445.0,
+            "serial": 1,
+            "angle": 90.00000339008956,
+            "nominalHeight": 12.0,
+            "kValue": 1.064,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "1T"
+            ],
+            "start": 29,
+            "xycoordinate": [
+                35620478.87,
+                4141319.688
+            ]
+        },
+        "coordinate": [
+            106.36184498878866,
+            37.39600620628,
+            1445.0
+        ]
+    },
+    {
+        "uid": 37,
+        "towerID": "G2",
+        "properties": {
+            "elevation": 1440.0,
+            "serial": 2,
+            "angle": 90.0000035340345,
+            "nominalHeight": 15.0,
+            "kValue": 0.993,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620568.9766,
+                4141498.2399
+            ]
+        },
+        "coordinate": [
+            106.36289143029197,
+            37.397602817980314,
+            1440.0
+        ]
+    },
+    {
+        "uid": 38,
+        "towerID": "J2",
+        "properties": {
+            "elevation": 1432.0,
+            "serial": 3,
+            "angle": 96.31556511641135,
+            "nominalHeight": 15.0,
+            "kValue": 1.063,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "1T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620664.576,
+                4141687.676
+            ]
+        },
+        "coordinate": [
+            106.36400171110063,
+            37.3992967446765,
+            1432.0
+        ]
+    },
+    {
+        "uid": 39,
+        "towerID": "G4",
+        "properties": {
+            "elevation": 1427.0,
+            "serial": 4,
+            "angle": 90.00001007907522,
+            "nominalHeight": 15.0,
+            "kValue": 0.847,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620795.5328,
+                4141806.7529
+            ]
+        },
+        "coordinate": [
+            106.36549975599463,
+            37.40035227837696,
+            1427.0
+        ]
+    },
+    {
+        "uid": 40,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1420.0,
+            "serial": 5,
+            "angle": 275.7435330132654,
+            "nominalHeight": 15.0,
+            "kValue": 0.973,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "1T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35620945.638,
+                4141943.241
+            ]
+        },
+        "coordinate": [
+            106.36721689535699,
+            37.40156212560287,
+            1420.0
+        ]
+    },
+    {
+        "uid": 41,
+        "towerID": "G6",
+        "properties": {
+            "elevation": 1415.0,
+            "serial": 6,
+            "angle": 270.0000001111699,
+            "nominalHeight": 15.0,
+            "kValue": 0.993,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "1T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621070.5392,
+                4142166.7039
+            ]
+        },
+        "coordinate": [
+            106.36866376096435,
+            37.403558678208796,
+            1415.0
+        ]
+    },
+    {
+        "uid": 42,
+        "towerID": "J4",
+        "properties": {
+            "elevation": 1408.0,
+            "serial": 7,
+            "angle": 119.20234525554493,
+            "nominalHeight": 12.0,
+            "kValue": 0.647,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "1T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621207.357,
+                4142411.487
+            ]
+        },
+        "coordinate": [
+            106.37024875884576,
+            37.405745695534044,
+            1408.0
+        ]
+    },
+    {
+        "uid": 43,
+        "towerID": "G5",
+        "properties": {
+            "elevation": 1408.0,
+            "serial": 5,
+            "angle": 269.99999545104123,
+            "nominalHeight": 18.0,
+            "kValue": 0.938,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": 0,
+            "xycoordinate": [
+                35625030.0027,
+                4139435.1754
+            ]
+        },
+        "coordinate": [
+            106.41290840522092,
+            37.378428447898955,
+            1408.0
+        ]
+    },
+    {
+        "uid": 44,
+        "towerID": "G6",
+        "properties": {
+            "elevation": 1414.0,
+            "serial": 6,
+            "angle": 89.99999770413733,
+            "nominalHeight": 18.0,
+            "kValue": 1.107,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624788.456,
+                4139516.9079
+            ]
+        },
+        "coordinate": [
+            106.4101957958034,
+            37.37919720079986,
+            1414.0
+        ]
+    },
+    {
+        "uid": 45,
+        "towerID": "G7",
+        "properties": {
+            "elevation": 1411.0,
+            "serial": 7,
+            "angle": 269.999998438091,
+            "nominalHeight": 21.0,
+            "kValue": 0.952,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624412.401,
+                4139644.1542
+            ]
+        },
+        "coordinate": [
+            106.40597252218058,
+            37.38039392186534,
+            1411.0
+        ]
+    },
+    {
+        "uid": 46,
+        "towerID": "J5",
+        "properties": {
+            "elevation": 1412.0,
+            "serial": 8,
+            "angle": 115.43256897610681,
+            "nominalHeight": 18.0,
+            "kValue": 0.737,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624294.738,
+                4139683.968
+            ]
+        },
+        "coordinate": [
+            106.40465108318253,
+            37.38076833067702,
+            1412.0
+        ]
+    },
+    {
+        "uid": 47,
+        "towerID": "G9",
+        "properties": {
+            "elevation": 1417.0,
+            "serial": 9,
+            "angle": 270.0000001419142,
+            "nominalHeight": 24.0,
+            "kValue": 1.167,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624047.8258,
+                4139526.2234
+            ]
+        },
+        "coordinate": [
+            106.40183757500759,
+            37.37938051681453,
+            1417.0
+        ]
+    },
+    {
+        "uid": 48,
+        "towerID": "J6",
+        "properties": {
+            "elevation": 1422.0,
+            "serial": 10,
+            "angle": 91.74886180584004,
+            "nominalHeight": 18.0,
+            "kValue": 0.891,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623871.534,
+                4139413.596
+            ]
+        },
+        "coordinate": [
+            106.39982883283486,
+            37.37838959500569,
+            1422.0
+        ]
+    },
+    {
+        "uid": 49,
+        "towerID": "J7",
+        "properties": {
+            "elevation": 1430.0,
+            "serial": 11,
+            "angle": 276.58544962552816,
+            "nominalHeight": 15.0,
+            "kValue": 0.988,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623637.081,
+                4139238.024
+            ]
+        },
+        "coordinate": [
+            106.39715314913803,
+            37.376839419307835,
+            1430.0
+        ]
+    },
+    {
+        "uid": 50,
+        "towerID": "G12",
+        "properties": {
+            "elevation": 1433.0,
+            "serial": 12,
+            "angle": 270.00000885460213,
+            "nominalHeight": 15.0,
+            "kValue": 0.745,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623559.0438,
+                4139206.9402
+            ]
+        },
+        "coordinate": [
+            106.39626714602285,
+            37.37656983420536,
+            1433.0
+        ]
+    },
+    {
+        "uid": 51,
+        "towerID": "G13",
+        "properties": {
+            "elevation": 1437.0,
+            "serial": 13,
+            "angle": 270.00000472690675,
+            "nominalHeight": 15.0,
+            "kValue": 0.976,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623402.9695,
+                4139144.7727
+            ]
+        },
+        "coordinate": [
+            106.39449515942907,
+            37.376030644545935,
+            1437.0
+        ]
+    },
+    {
+        "uid": 52,
+        "towerID": "J8",
+        "properties": {
+            "elevation": 1443.0,
+            "serial": 14,
+            "angle": 60.12716869055653,
+            "nominalHeight": 15.0,
+            "kValue": 1.141,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623166.286,
+                4139050.497
+            ]
+        },
+        "coordinate": [
+            106.39180802487209,
+            37.37521292308854,
+            1443.0
+        ]
+    },
+    {
+        "uid": 53,
+        "towerID": "G15",
+        "properties": {
+            "elevation": 1445.0,
+            "serial": 15,
+            "angle": 269.99999856246876,
+            "nominalHeight": 15.0,
+            "kValue": 0.942,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622956.5371,
+                4139218.9202
+            ]
+        },
+        "coordinate": [
+            106.38946860799803,
+            37.37675785177406,
+            1445.0
+        ]
+    },
+    {
+        "uid": 54,
+        "towerID": "G16",
+        "properties": {
+            "elevation": 1444.0,
+            "serial": 16,
+            "angle": 89.99999846266618,
+            "nominalHeight": 18.0,
+            "kValue": 1.06,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622747.742,
+                4139386.5775
+            ]
+        },
+        "coordinate": [
+            106.38713973343872,
+            37.3782957104994,
+            1444.0
+        ]
+    },
+    {
+        "uid": 55,
+        "towerID": "G17",
+        "properties": {
+            "elevation": 1444.0,
+            "serial": 17,
+            "angle": 269.9999980729037,
+            "nominalHeight": 18.0,
+            "kValue": 0.966,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622506.6295,
+                4139580.1849
+            ]
+        },
+        "coordinate": [
+            106.38445027568842,
+            37.38007154476307,
+            1444.0
+        ]
+    },
+    {
+        "uid": 56,
+        "towerID": "J9",
+        "properties": {
+            "elevation": 1445.0,
+            "serial": 18,
+            "angle": 249.06665797737344,
+            "nominalHeight": 15.0,
+            "kValue": 0.795,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622329.198,
+                4139722.658
+            ]
+        },
+        "coordinate": [
+            106.38247105786584,
+            37.38137831970566,
+            1445.0
+        ]
+    },
+    {
+        "uid": 57,
+        "towerID": "G19",
+        "properties": {
+            "elevation": 1447.0,
+            "serial": 19,
+            "angle": 90.0000135656438,
+            "nominalHeight": 18.0,
+            "kValue": 0.818,
+            "towerModel": "35b08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622164.8448,
+                4139708.063
+            ]
+        },
+        "coordinate": [
+            106.38061345629534,
+            37.38126852997491,
+            1447.0
+        ]
+    },
+    {
+        "uid": 58,
+        "towerID": "J10",
+        "properties": {
+            "elevation": 1456.0,
+            "serial": 20,
+            "angle": 272.55393622305775,
+            "nominalHeight": 18.0,
+            "kValue": 1.116,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621926.914,
+                4139686.934
+            ]
+        },
+        "coordinate": [
+            106.37792425207361,
+            37.381109536667154,
+            1456.0
+        ]
+    },
+    {
+        "uid": 59,
+        "towerID": "J11",
+        "properties": {
+            "elevation": 1465.0,
+            "serial": 21,
+            "angle": 62.380520285149125,
+            "nominalHeight": 15.0,
+            "kValue": 1.324,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621604.933,
+                4139687.148
+            ]
+        },
+        "coordinate": [
+            106.37428982459768,
+            37.38115376281327,
+            1465.0
+        ]
+    },
+    {
+        "uid": 60,
+        "towerID": "G22",
+        "properties": {
+            "elevation": 1458.0,
+            "serial": 22,
+            "angle": 269.9999986843451,
+            "nominalHeight": 15.0,
+            "kValue": 0.894,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621526.9905,
+                4139881.0706
+            ]
+        },
+        "coordinate": [
+            106.37344188598696,
+            37.38291077062924,
+            1458.0
+        ]
+    },
+    {
+        "uid": 61,
+        "towerID": "G23",
+        "properties": {
+            "elevation": 1452.0,
+            "serial": 23,
+            "angle": 89.99999960993928,
+            "nominalHeight": 15.0,
+            "kValue": 1.042,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621443.0811,
+                4140089.8389
+            ]
+        },
+        "coordinate": [
+            106.37252899027347,
+            37.384802279294874,
+            1452.0
+        ]
+    },
+    {
+        "uid": 62,
+        "towerID": "G24",
+        "properties": {
+            "elevation": 1441.0,
+            "serial": 24,
+            "angle": 269.9999996582459,
+            "nominalHeight": 18.0,
+            "kValue": 0.905,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621356.5612,
+                4140305.1022
+            ]
+        },
+        "coordinate": [
+            106.37158764680721,
+            37.38675262773017,
+            1441.0
+        ]
+    },
+    {
+        "uid": 63,
+        "towerID": "G25",
+        "properties": {
+            "elevation": 1440.0,
+            "serial": 25,
+            "angle": 89.99999927216656,
+            "nominalHeight": 15.0,
+            "kValue": 0.82,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621271.533,
+                4140516.6541
+            ]
+        },
+        "coordinate": [
+            106.37066248693526,
+            37.388669342831236,
+            1440.0
+        ]
+    },
+    {
+        "uid": 64,
+        "towerID": "J12",
+        "properties": {
+            "elevation": 1443.0,
+            "serial": 26,
+            "angle": 90.0977138289194,
+            "nominalHeight": 12.0,
+            "kValue": 1.215,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621168.929,
+                4140771.935
+            ]
+        },
+        "coordinate": [
+            106.36954603039042,
+            37.39098224481873,
+            1443.0
+        ]
+    },
+    {
+        "uid": 65,
+        "towerID": "G27",
+        "properties": {
+            "elevation": 1437.0,
+            "serial": 27,
+            "angle": 270.0000051721523,
+            "nominalHeight": 15.0,
+            "kValue": 0.804,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621237.5643,
+                4140938.3357
+            ]
+        },
+        "coordinate": [
+            106.37034816559914,
+            37.39247214405688,
+            1437.0
+        ]
+    },
+    {
+        "uid": 66,
+        "towerID": "J13",
+        "properties": {
+            "elevation": 1434.0,
+            "serial": 28,
+            "angle": 97.00516183674314,
+            "nominalHeight": 15.0,
+            "kValue": 1.16,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621330.924,
+                4141164.679
+            ]
+        },
+        "coordinate": [
+            106.37143930511982,
+            37.394498740052995,
+            1434.0
+        ]
+    },
+    {
+        "uid": 67,
+        "towerID": "G29",
+        "properties": {
+            "elevation": 1426.0,
+            "serial": 29,
+            "angle": 270.0000032465575,
+            "nominalHeight": 15.0,
+            "kValue": 0.967,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621517.7674,
+                4141338.2144
+            ]
+        },
+        "coordinate": [
+            106.3735772665144,
+            37.39603739267127,
+            1426.0
+        ]
+    },
+    {
+        "uid": 68,
+        "towerID": "J14",
+        "properties": {
+            "elevation": 1419.0,
+            "serial": 30,
+            "angle": 98.98531901575564,
+            "nominalHeight": 12.0,
+            "kValue": 0.925,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621699.852,
+                4141507.33
+            ]
+        },
+        "coordinate": [
+            106.37566085911256,
+            37.39753681785497,
+            1419.0
+        ]
+    },
+    {
+        "uid": 69,
+        "towerID": "G31",
+        "properties": {
+            "elevation": 1410.0,
+            "serial": 31,
+            "angle": 270.00000981453667,
+            "nominalHeight": 18.0,
+            "kValue": 0.907,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621849.5432,
+                4141566.6051
+            ]
+        },
+        "coordinate": [
+            106.37736068660675,
+            37.39805106653747,
+            1410.0
+        ]
+    },
+    {
+        "uid": 70,
+        "towerID": "G32",
+        "properties": {
+            "elevation": 1398.0,
+            "serial": 32,
+            "angle": 90.00000577221275,
+            "nominalHeight": 24.0,
+            "kValue": 0.884,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622129.4007,
+                4141677.4239
+            ]
+        },
+        "coordinate": [
+            106.38053868599441,
+            37.399012422259155,
+            1398.0
+        ]
+    },
+    {
+        "uid": 71,
+        "towerID": "G33",
+        "properties": {
+            "elevation": 1389.0,
+            "serial": 33,
+            "angle": 90.00000136707875,
+            "nominalHeight": 33.0,
+            "kValue": 1.305,
+            "towerModel": "35B08-Z3",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622407.3987,
+                4141787.5063
+            ]
+        },
+        "coordinate": [
+            106.38369564742968,
+            37.3999673033092,
+            1389.0
+        ]
+    },
+    {
+        "uid": 72,
+        "towerID": "J15",
+        "properties": {
+            "elevation": 1387.0,
+            "serial": 34,
+            "angle": 286.3979264931818,
+            "nominalHeight": 18.0,
+            "kValue": 0.859,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622666.629,
+                4141890.157
+            ]
+        },
+        "coordinate": [
+            106.3866395519229,
+            37.40085764245136,
+            1387.0
+        ]
+    },
+    {
+        "uid": 73,
+        "towerID": "G35",
+        "properties": {
+            "elevation": 1377.0,
+            "serial": 35,
+            "angle": 270.0000021430212,
+            "nominalHeight": 21.0,
+            "kValue": 0.968,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622765.3899,
+                4142145.7393
+            ]
+        },
+        "coordinate": [
+            106.38779709751957,
+            37.40314672998584,
+            1377.0
+        ]
+    },
+    {
+        "uid": 74,
+        "towerID": "J16",
+        "properties": {
+            "elevation": 1368.0,
+            "serial": 36,
+            "angle": 256.66172503071124,
+            "nominalHeight": 18.0,
+            "kValue": 0.754,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622890.931,
+                4142470.626
+            ]
+        },
+        "coordinate": [
+            106.38926862985831,
+            37.406056513147696,
+            1368.0
+        ]
+    },
+    {
+        "uid": 75,
+        "towerID": "G37",
+        "properties": {
+            "elevation": 1369.0,
+            "serial": 37,
+            "angle": 269.9999998107618,
+            "nominalHeight": 21.0,
+            "kValue": 0.894,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622689.8512,
+                4142578.1012
+            ]
+        },
+        "coordinate": [
+            106.38701598681253,
+            37.407051263337124,
+            1369.0
+        ]
+    },
+    {
+        "uid": 76,
+        "towerID": "G38",
+        "properties": {
+            "elevation": 1382.0,
+            "serial": 38,
+            "angle": 269.9999914021929,
+            "nominalHeight": 18.0,
+            "kValue": 1.149,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622363.5375,
+                4142752.5127
+            ]
+        },
+        "coordinate": [
+            106.38336025317182,
+            37.4086654616769,
+            1382.0
+        ]
+    },
+    {
+        "uid": 77,
+        "towerID": "G39",
+        "properties": {
+            "elevation": 1380.0,
+            "serial": 39,
+            "angle": 89.99998961535218,
+            "nominalHeight": 18.0,
+            "kValue": 1.147,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622092.7853,
+                4142897.227
+            ]
+        },
+        "coordinate": [
+            106.38032686102018,
+            37.41000472529883,
+            1380.0
+        ]
+    },
+    {
+        "uid": 78,
+        "towerID": "J17",
+        "properties": {
+            "elevation": 1371.0,
+            "serial": 40,
+            "angle": 128.48907027452543,
+            "nominalHeight": 18.0,
+            "kValue": 0.303,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621887.283,
+                4143007.066
+            ]
+        },
+        "coordinate": [
+            106.37802442767504,
+            37.41102118346813,
+            1371.0
+        ]
+    },
+    {
+        "uid": 79,
+        "towerID": "G41",
+        "properties": {
+            "elevation": 1380.0,
+            "serial": 41,
+            "angle": 270.0000033077098,
+            "nominalHeight": 27.0,
+            "kValue": 1.427,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621735.1274,
+                4142821.4624
+            ]
+        },
+        "coordinate": [
+            106.37627565036959,
+            37.40936936025502,
+            1380.0
+        ]
+    },
+    {
+        "uid": 80,
+        "towerID": "J18",
+        "properties": {
+            "elevation": 1392.0,
+            "serial": 42,
+            "angle": 309.3444985217268,
+            "nominalHeight": 15.0,
+            "kValue": 1.173,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35621653.163,
+                4142721.48
+            ]
+        },
+        "coordinate": [
+            106.37533363695177,
+            37.4084795316556,
+            1392.0
+        ]
+    },
+    {
+        "uid": 81,
+        "towerID": "J1",
+        "properties": {
+            "elevation": 1403.0,
+            "serial": 1,
+            "angle": 4.200550803828237,
+            "nominalHeight": 15.0,
+            "kValue": 1.403,
+            "towerModel": "35B10-SJ4",
+            "towerClass": 1,
+            "lineID": [
+                "3",
+                "4"
+            ],
+            "start": 0,
+            "xycoordinate": [
+                35625500.196,
+                4139114.991
+            ]
+        },
+        "coordinate": [
+            106.4181612658124,
+            37.37548085823109,
+            1403.0
+        ]
+    },
+    {
+        "uid": 82,
+        "towerID": "J2",
+        "properties": {
+            "elevation": 1398.0,
+            "serial": 2,
+            "angle": 296.49942778258486,
+            "nominalHeight": 15.0,
+            "kValue": 0.992,
+            "towerModel": "35B10-SJ4",
+            "towerClass": 1,
+            "lineID": [
+                "3",
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625624.564,
+                4139115.67
+            ]
+        },
+        "coordinate": [
+            106.41956509326019,
+            37.37547013076371,
+            1398.0
+        ]
+    },
+    {
+        "uid": 83,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1392.0,
+            "serial": 3,
+            "angle": 264.2409902096153,
+            "nominalHeight": 15.0,
+            "kValue": 0.82,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625675.074,
+                4139218.661
+            ]
+        },
+        "coordinate": [
+            106.4201526813844,
+            37.37639097378966,
+            1392.0
+        ]
+    },
+    {
+        "uid": 84,
+        "towerID": "G4",
+        "properties": {
+            "elevation": 1397.0,
+            "serial": 4,
+            "angle": 269.9999968081472,
+            "nominalHeight": 21.0,
+            "kValue": 1.054,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625452.1097,
+                4139435.4741
+            ]
+        },
+        "coordinate": [
+            106.41767287015806,
+            37.37837411130157,
+            1397.0
+        ]
+    },
+    {
+        "uid": 85,
+        "towerID": "T",
+        "properties": {
+            "elevation": 1396.0,
+            "serial": 5,
+            "angle": 89.99999835240695,
+            "nominalHeight": 21.0,
+            "kValue": 1.008,
+            "towerModel": "JT",
+            "towerClass": 2,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625199.9546,
+                4139680.6726
+            ]
+        },
+        "coordinate": [
+            106.41486824113346,
+            37.380616823066404,
+            1396.0
+        ]
+    },
+    {
+        "uid": 86,
+        "towerID": "G6",
+        "properties": {
+            "elevation": 1403.0,
+            "serial": 6,
+            "angle": 89.9999984593725,
+            "nominalHeight": 15.0,
+            "kValue": 0.968,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625070.9077,
+                4139806.1593
+            ]
+        },
+        "coordinate": [
+            106.41343283498985,
+            37.38176456432084,
+            1403.0
+        ]
+    },
+    {
+        "uid": 87,
+        "towerID": "G7",
+        "properties": {
+            "elevation": 1398.0,
+            "serial": 7,
+            "angle": 269.9999964624294,
+            "nominalHeight": 21.0,
+            "kValue": 1.076,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624824.2848,
+                4140045.9783
+            ]
+        },
+        "coordinate": [
+            106.41068949333008,
+            37.383957978550306,
+            1398.0
+        ]
+    },
+    {
+        "uid": 88,
+        "towerID": "J4",
+        "properties": {
+            "elevation": 1397.0,
+            "serial": 8,
+            "angle": 267.8614812483341,
+            "nominalHeight": 18.0,
+            "kValue": 0.819,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624702.818,
+                4140164.094
+            ]
+        },
+        "coordinate": [
+            106.40933828293572,
+            37.38503825686889,
+            1397.0
+        ]
+    },
+    {
+        "uid": 89,
+        "towerID": "G9",
+        "properties": {
+            "elevation": 1402.0,
+            "serial": 9,
+            "angle": 89.99999872148356,
+            "nominalHeight": 18.0,
+            "kValue": 0.928,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624471.9492,
+                4140347.7365
+            ]
+        },
+        "coordinate": [
+            106.4067630881202,
+            37.386723453699425,
+            1402.0
+        ]
+    },
+    {
+        "uid": 90,
+        "towerID": "G10",
+        "properties": {
+            "elevation": 1409.0,
+            "serial": 10,
+            "angle": 89.99999913636005,
+            "nominalHeight": 15.0,
+            "kValue": 1.208,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624270.8194,
+                4140507.7234
+            ]
+        },
+        "coordinate": [
+            106.40451951848922,
+            37.38819153054367,
+            1409.0
+        ]
+    },
+    {
+        "uid": 91,
+        "towerID": "G11",
+        "properties": {
+            "elevation": 1397.0,
+            "serial": 11,
+            "angle": 269.99999908726755,
+            "nominalHeight": 21.0,
+            "kValue": 0.976,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624006.2985,
+                4140718.1342
+            ]
+        },
+        "coordinate": [
+            106.40156869769555,
+            37.3901222461181,
+            1397.0
+        ]
+    },
+    {
+        "uid": 92,
+        "towerID": "J5",
+        "properties": {
+            "elevation": 1396.0,
+            "serial": 12,
+            "angle": 254.05975709200948,
+            "nominalHeight": 15.0,
+            "kValue": 0.854,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623743.08,
+                4140927.509
+            ]
+        },
+        "coordinate": [
+            106.39863225455657,
+            37.392043384759276,
+            1396.0
+        ]
+    },
+    {
+        "uid": 93,
+        "towerID": "G13",
+        "properties": {
+            "elevation": 1400.0,
+            "serial": 13,
+            "angle": 269.99998509369095,
+            "nominalHeight": 15.0,
+            "kValue": 0.946,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623492.7542,
+                4140945.8942
+            ]
+        },
+        "coordinate": [
+            106.39580930898268,
+            37.39224238810107,
+            1400.0
+        ]
+    },
+    {
+        "uid": 94,
+        "towerID": "G14",
+        "properties": {
+            "elevation": 1403.0,
+            "serial": 14,
+            "angle": 89.99998542277784,
+            "nominalHeight": 15.0,
+            "kValue": 0.974,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623237.4419,
+                4140964.6455
+            ]
+        },
+        "coordinate": [
+            106.39293011262482,
+            37.39244528525201,
+            1403.0
+        ]
+    },
+    {
+        "uid": 95,
+        "towerID": "J6",
+        "properties": {
+            "elevation": 1406.0,
+            "serial": 15,
+            "angle": 4.200550803828237,
+            "nominalHeight": 15.0,
+            "kValue": 1.184,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35622988.528,
+                4140982.927
+            ]
+        },
+        "coordinate": [
+            106.39012305496125,
+            37.39264303151313,
+            1406.0
+        ]
+    },
+    {
+        "uid": 96,
+        "towerID": "J1",
+        "properties": {
+            "elevation": 1395.0,
+            "serial": 1,
+            "angle": 90.0000234357533,
+            "nominalHeight": 18.0,
+            "kValue": 0.927,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": 85,
+            "xycoordinate": [
+                35625219.365,
+                4139710.5499
+            ]
+        },
+        "coordinate": [
+            106.41509239481815,
+            37.380883320447865,
+            1395.0
+        ]
+    },
+    {
+        "uid": 97,
+        "towerID": "G2",
+        "properties": {
+            "elevation": 1390.0,
+            "serial": 2,
+            "angle": 270.00000137058987,
+            "nominalHeight": 24.0,
+            "kValue": 1.203,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625393.1547,
+                4139978.0534
+            ]
+        },
+        "coordinate": [
+            106.41709941094773,
+            37.38326935784397,
+            1390.0
+        ]
+    },
+    {
+        "uid": 98,
+        "towerID": "J2",
+        "properties": {
+            "elevation": 1384.0,
+            "serial": 3,
+            "angle": 274.55448120555945,
+            "nominalHeight": 15.0,
+            "kValue": 0.76,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625575.537,
+                4140258.783
+            ]
+        },
+        "coordinate": [
+            106.41920579729019,
+            37.385773326947096,
+            1384.0
+        ]
+    },
+    {
+        "uid": 99,
+        "towerID": "G4",
+        "properties": {
+            "elevation": 1378.0,
+            "serial": 4,
+            "angle": 90.0000002990782,
+            "nominalHeight": 21.0,
+            "kValue": 1.137,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625591.2256,
+                4140475.2151
+            ]
+        },
+        "coordinate": [
+            106.41941965318627,
+            37.38772070409846,
+            1378.0
+        ]
+    },
+    {
+        "uid": 100,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1374.0,
+            "serial": 5,
+            "angle": 118.12084324217184,
+            "nominalHeight": 15.0,
+            "kValue": 0.843,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625610.097,
+                4140735.555
+            ]
+        },
+        "coordinate": [
+            106.41967691148123,
+            37.39006314598505,
+            1374.0
+        ]
+    },
+    {
+        "uid": 101,
+        "towerID": "G6",
+        "properties": {
+            "elevation": 1370.0,
+            "serial": 6,
+            "angle": 90.00001247204848,
+            "nominalHeight": 18.0,
+            "kValue": 1.03,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625808.7989,
+                4140746.4438
+            ]
+        },
+        "coordinate": [
+            106.42192189788574,
+            37.390134269811306,
+            1370.0
+        ]
+    },
+    {
+        "uid": 102,
+        "towerID": "J4",
+        "properties": {
+            "elevation": 1367.0,
+            "serial": 7,
+            "angle": 252.36741222559237,
+            "nominalHeight": 15.0,
+            "kValue": 0.729,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626021.269,
+                4140758.087
+            ]
+        },
+        "coordinate": [
+            106.4243224441891,
+            37.39021027375402,
+            1367.0
+        ]
+    },
+    {
+        "uid": 103,
+        "towerID": "G8",
+        "properties": {
+            "elevation": 1368.0,
+            "serial": 8,
+            "angle": 269.99999672982676,
+            "nominalHeight": 18.0,
+            "kValue": 0.895,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626179.8116,
+                4140653.3767
+            ]
+        },
+        "coordinate": [
+            106.42609435244931,
+            37.389245528090896,
+            1368.0
+        ]
+    },
+    {
+        "uid": 104,
+        "towerID": "J5",
+        "properties": {
+            "elevation": 1372.0,
+            "serial": 9,
+            "angle": 258.17806480995125,
+            "nominalHeight": 15.0,
+            "kValue": 1.219,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626324.964,
+                4140557.51
+            ]
+        },
+        "coordinate": [
+            106.42771656853452,
+            37.38836224011713,
+            1372.0
+        ]
+    },
+    {
+        "uid": 105,
+        "towerID": "G10",
+        "properties": {
+            "elevation": 1369.0,
+            "serial": 10,
+            "angle": 269.99999689209903,
+            "nominalHeight": 15.0,
+            "kValue": 0.824,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626399.2199,
+                4140300.0026
+            ]
+        },
+        "coordinate": [
+            106.42851080100172,
+            37.38603263704536,
+            1369.0
+        ]
+    },
+    {
+        "uid": 106,
+        "towerID": "G11",
+        "properties": {
+            "elevation": 1371.0,
+            "serial": 11,
+            "angle": 89.9999984731777,
+            "nominalHeight": 15.0,
+            "kValue": 0.883,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626461.8386,
+                4140082.8508
+            ]
+        },
+        "coordinate": [
+            106.42918052675896,
+            37.38406811665064,
+            1371.0
+        ]
+    },
+    {
+        "uid": 107,
+        "towerID": "J6",
+        "properties": {
+            "elevation": 1375.0,
+            "serial": 12,
+            "angle": 274.63618465827517,
+            "nominalHeight": 15.0,
+            "kValue": 1.091,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626533.033,
+                4139835.96
+            ]
+        },
+        "coordinate": [
+            106.4299419316433,
+            37.38183455013242,
+            1375.0
+        ]
+    },
+    {
+        "uid": 108,
+        "towerID": "T",
+        "properties": {
+            "elevation": 1377.0,
+            "serial": 13,
+            "angle": 90.0000006869592,
+            "nominalHeight": 15.0,
+            "kValue": 0.839,
+            "towerModel": "JT",
+            "towerClass": 2,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626390.0952,
+                4139645.9097
+            ]
+        },
+        "coordinate": [
+            106.42829602381958,
+            37.38014218645251,
+            1377.0
+        ]
+    },
+    {
+        "uid": 109,
+        "towerID": "J7",
+        "properties": {
+            "elevation": 1386.0,
+            "serial": 14,
+            "angle": 306.94700995571793,
+            "nominalHeight": 15.0,
+            "kValue": 1.364,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3T1"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626245.331,
+                4139453.431
+            ]
+        },
+        "coordinate": [
+            106.4266291611911,
+            37.3784281729051,
+            1386.0
+        ]
+    },
+    {
+        "uid": 110,
+        "towerID": "J1",
+        "properties": {
+            "elevation": 1380.0,
+            "serial": 1,
+            "angle": 84.62923059269393,
+            "nominalHeight": 15.0,
+            "kValue": 0.817,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3T2"
+            ],
+            "start": 108,
+            "xycoordinate": [
+                35626412.17,
+                4139620.141
+            ]
+        },
+        "coordinate": [
+            106.4285407876738,
+            37.379907066517056,
+            1380.0
+        ]
+    },
+    {
+        "uid": 111,
+        "towerID": "G2",
+        "properties": {
+            "elevation": 1381.0,
+            "serial": 2,
+            "angle": 89.99999872631088,
+            "nominalHeight": 21.0,
+            "kValue": 1.296,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "3T2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626622.1121,
+                4139473.6475
+            ]
+        },
+        "coordinate": [
+            106.4308854076146,
+            37.37855888377847,
+            1381.0
+        ]
+    },
+    {
+        "uid": 112,
+        "towerID": "G3",
+        "properties": {
+            "elevation": 1378.0,
+            "serial": 3,
+            "angle": 269.999999968972,
+            "nominalHeight": 18.0,
+            "kValue": 0.925,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "3T2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626810.7319,
+                4139342.0323
+            ]
+        },
+        "coordinate": [
+            106.43299182924102,
+            37.37734758792317,
+            1378.0
+        ]
+    },
+    {
+        "uid": 113,
+        "towerID": "J2",
+        "properties": {
+            "elevation": 1376.0,
+            "serial": 4,
+            "angle": 63.26071846021181,
+            "nominalHeight": 15.0,
+            "kValue": 0.999,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "3T2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35627006.655,
+                4139205.321
+            ]
+        },
+        "coordinate": [
+            106.43517973846771,
+            37.37608935256792,
+            1376.0
+        ]
+    },
+    {
+        "uid": 114,
+        "towerID": "G5",
+        "properties": {
+            "elevation": 1373.0,
+            "serial": 5,
+            "angle": 270.00000590624086,
+            "nominalHeight": 15.0,
+            "kValue": 1.043,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "3T2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35627186.1686,
+                4139267.5693
+            ]
+        },
+        "coordinate": [
+            106.43721656758214,
+            37.37662543884607,
+            1373.0
+        ]
+    },
+    {
+        "uid": 115,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1369.0,
+            "serial": 6,
+            "angle": 160.875440670763,
+            "nominalHeight": 12.0,
+            "kValue": 0.367,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "3T2"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35627347.89,
+                4139323.648
+            ]
+        },
+        "coordinate": [
+            106.43905154363696,
+            37.37710836154875,
+            1369.0
+        ]
+    },
+    {
+        "uid": 116,
+        "towerID": "G3",
+        "properties": {
+            "elevation": 1400.0,
+            "serial": 3,
+            "angle": 269.9999970108771,
+            "nominalHeight": 15.0,
+            "kValue": 0.949,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": 0,
+            "xycoordinate": [
+                35625772.6129,
+                4138886.3002
+            ]
+        },
+        "coordinate": [
+            106.42119709680094,
+            37.37338401679919,
+            1400.0
+        ]
+    },
+    {
+        "uid": 117,
+        "towerID": "G4",
+        "properties": {
+            "elevation": 1400.0,
+            "serial": 4,
+            "angle": 89.99999927312956,
+            "nominalHeight": 15.0,
+            "kValue": 0.941,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625909.8157,
+                4138673.734
+            ]
+        },
+        "coordinate": [
+            106.42270945962622,
+            37.37145071218323,
+            1400.0
+        ]
+    },
+    {
+        "uid": 118,
+        "towerID": "G5",
+        "properties": {
+            "elevation": 1398.0,
+            "serial": 5,
+            "angle": 89.99999821590582,
+            "nominalHeight": 18.0,
+            "kValue": 1.079,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626039.4263,
+                4138472.9303
+            ]
+        },
+        "coordinate": [
+            106.42413806452238,
+            37.3696243714779,
+            1398.0
+        ]
+    },
+    {
+        "uid": 119,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1397.0,
+            "serial": 6,
+            "angle": 265.4174623395626,
+            "nominalHeight": 15.0,
+            "kValue": 0.869,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626203.967,
+                4138218.01
+            ]
+        },
+        "coordinate": [
+            106.42595158038142,
+            37.367305808334315,
+            1397.0
+        ]
+    },
+    {
+        "uid": 120,
+        "towerID": "J4",
+        "properties": {
+            "elevation": 1400.0,
+            "serial": 7,
+            "angle": 289.9504491198198,
+            "nominalHeight": 15.0,
+            "kValue": 0.908,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626205.438,
+                4138018.61
+            ]
+        },
+        "coordinate": [
+            106.42593418458772,
+            37.365509519951935,
+            1400.0
+        ]
+    },
+    {
+        "uid": 121,
+        "towerID": "G8",
+        "properties": {
+            "elevation": 1405.0,
+            "serial": 8,
+            "angle": 90.06084825061316,
+            "nominalHeight": 18.0,
+            "kValue": 0.846,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625940.8794,
+                4137930.0113
+            ]
+        },
+        "coordinate": [
+            106.42293350259553,
+            37.364747431901186,
+            1405.0
+        ]
+    },
+    {
+        "uid": 122,
+        "towerID": "G9",
+        "properties": {
+            "elevation": 1413.0,
+            "serial": 9,
+            "angle": 270.12618987514395,
+            "nominalHeight": 24.0,
+            "kValue": 1.211,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625662.3078,
+                4137836.025
+            ]
+        },
+        "coordinate": [
+            106.41977382736326,
+            37.36393863623867,
+            1413.0
+        ]
+    },
+    {
+        "uid": 123,
+        "towerID": "G10",
+        "properties": {
+            "elevation": 1421.0,
+            "serial": 10,
+            "angle": 90.06533874610457,
+            "nominalHeight": 18.0,
+            "kValue": 0.899,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625402.2797,
+                4137749.6383
+            ]
+        },
+        "coordinate": [
+            106.41682476678093,
+            37.36319570115186,
+            1421.0
+        ]
+    },
+    {
+        "uid": 124,
+        "towerID": "J5",
+        "properties": {
+            "elevation": 1430.0,
+            "serial": 11,
+            "angle": 93.69945479312534,
+            "nominalHeight": 15.0,
+            "kValue": 1.041,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625149.311,
+                4137664.921
+            ]
+        },
+        "coordinate": [
+            106.41395570859606,
+            37.36246677590671,
+            1430.0
+        ]
+    },
+    {
+        "uid": 125,
+        "towerID": "T",
+        "properties": {
+            "elevation": 1435.0,
+            "serial": 12,
+            "angle": 270.0000047928512,
+            "nominalHeight": 15.0,
+            "kValue": 0.974,
+            "towerModel": "JT",
+            "towerClass": 2,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624916.6876,
+                4137548.8075
+            ]
+        },
+        "coordinate": [
+            106.4113109983504,
+            37.36145223797065,
+            1435.0
+        ]
+    },
+    {
+        "uid": 126,
+        "towerID": "G13",
+        "properties": {
+            "elevation": 1442.0,
+            "serial": 13,
+            "angle": 90.00000277643947,
+            "nominalHeight": 15.0,
+            "kValue": 0.914,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624659.8981,
+                4137420.6316
+            ]
+        },
+        "coordinate": [
+            106.40839162320079,
+            37.36033223463606,
+            1442.0
+        ]
+    },
+    {
+        "uid": 127,
+        "towerID": "G14",
+        "properties": {
+            "elevation": 1449.0,
+            "serial": 14,
+            "angle": 90.00000125229629,
+            "nominalHeight": 18.0,
+            "kValue": 0.994,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624386.1101,
+                4137283.9709
+            ]
+        },
+        "coordinate": [
+            106.40527909002707,
+            37.3591380093759,
+            1449.0
+        ]
+    },
+    {
+        "uid": 128,
+        "towerID": "J6",
+        "properties": {
+            "elevation": 1457.0,
+            "serial": 15,
+            "angle": 103.22696783445824,
+            "nominalHeight": 18.0,
+            "kValue": 1.048,
+            "towerModel": "35B08-J2",
+            "towerClass": 1,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624139.472,
+                4137160.862
+            ]
+        },
+        "coordinate": [
+            106.40247529069032,
+            37.35806213600079,
+            1457.0
+        ]
+    },
+    {
+        "uid": 129,
+        "towerID": "G16",
+        "properties": {
+            "elevation": 1464.0,
+            "serial": 16,
+            "angle": 270.00000058257984,
+            "nominalHeight": 18.0,
+            "kValue": 0.999,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35624019.8943,
+                4136907.6799
+            ]
+        },
+        "coordinate": [
+            106.40108354740305,
+            37.35579757312532,
+            1464.0
+        ]
+    },
+    {
+        "uid": 130,
+        "towerID": "J7",
+        "properties": {
+            "elevation": 1469.0,
+            "serial": 17,
+            "angle": 290.1473944448709,
+            "nominalHeight": 18.0,
+            "kValue": 1.004,
+            "towerModel": "35B08-J3",
+            "towerClass": 1,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623876.731,
+                4136604.56
+            ]
+        },
+        "coordinate": [
+            106.39941740778083,
+            37.3530863215183,
+            1469.0
+        ]
+    },
+    {
+        "uid": 131,
+        "towerID": "G18",
+        "properties": {
+            "elevation": 1475.0,
+            "serial": 18,
+            "angle": 270.00001059746734,
+            "nominalHeight": 18.0,
+            "kValue": 0.927,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623637.4794,
+                4136551.7995
+            ]
+        },
+        "coordinate": [
+            106.39670900228433,
+            37.352642987735905,
+            1475.0
+        ]
+    },
+    {
+        "uid": 132,
+        "towerID": "J8",
+        "properties": {
+            "elevation": 1484.0,
+            "serial": 19,
+            "angle": 347.56401957316314,
+            "nominalHeight": 12.0,
+            "kValue": 1.318,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "4"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35623438.713,
+                4136507.967
+            ]
+        },
+        "coordinate": [
+            106.39445892515256,
+            37.352274626143206,
+            1484.0
+        ]
+    },
+    {
+        "uid": 133,
+        "towerID": "J1",
+        "properties": {
+            "elevation": 1435.0,
+            "serial": 1,
+            "angle": 84.63023187368377,
+            "nominalHeight": 15.0,
+            "kValue": 0.948,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "4T"
+            ],
+            "start": 125,
+            "xycoordinate": [
+                35624918.869,
+                4137514.931
+            ]
+        },
+        "coordinate": [
+            106.41132989926379,
+            37.361146800668884,
+            1435.0
+        ]
+    },
+    {
+        "uid": 134,
+        "towerID": "G2",
+        "properties": {
+            "elevation": 1434.0,
+            "serial": 2,
+            "angle": 269.99998798810884,
+            "nominalHeight": 15.0,
+            "kValue": 0.974,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625036.5281,
+                4137351.9668
+            ]
+        },
+        "coordinate": [
+            106.41263012157172,
+            37.35966304399025,
+            1434.0
+        ]
+    },
+    {
+        "uid": 135,
+        "towerID": "G3",
+        "properties": {
+            "elevation": 1434.0,
+            "serial": 3,
+            "angle": 89.9999910176934,
+            "nominalHeight": 12.0,
+            "kValue": 0.892,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625172.9189,
+                4137163.0579
+            ]
+        },
+        "coordinate": [
+            106.41413727983702,
+            37.357943048971315,
+            1434.0
+        ]
+    },
+    {
+        "uid": 136,
+        "towerID": "G4",
+        "properties": {
+            "elevation": 1429.0,
+            "serial": 4,
+            "angle": 269.99999691857624,
+            "nominalHeight": 18.0,
+            "kValue": 0.999,
+            "towerModel": "35B08-Z2",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625358.4807,
+                4136906.0447
+            ]
+        },
+        "coordinate": [
+            106.4161876826431,
+            37.355602942318114,
+            1429.0
+        ]
+    },
+    {
+        "uid": 137,
+        "towerID": "J2",
+        "properties": {
+            "elevation": 1432.0,
+            "serial": 5,
+            "angle": 56.23338850425992,
+            "nominalHeight": 15.0,
+            "kValue": 1.16,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625541.279,
+                4136652.859
+            ]
+        },
+        "coordinate": [
+            106.4182074262305,
+            37.35329765201059,
+            1432.0
+        ]
+    },
+    {
+        "uid": 138,
+        "towerID": "G6",
+        "properties": {
+            "elevation": 1426.0,
+            "serial": 6,
+            "angle": 270.0000069096423,
+            "nominalHeight": 15.0,
+            "kValue": 0.825,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625773.0208,
+                4136725.9668
+            ]
+        },
+        "coordinate": [
+            106.420834684203,
+            37.353924786622336,
+            1426.0
+        ]
+    },
+    {
+        "uid": 139,
+        "towerID": "G7",
+        "properties": {
+            "elevation": 1422.0,
+            "serial": 7,
+            "angle": 90.00001016239487,
+            "nominalHeight": 18.0,
+            "kValue": 0.996,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35625978.0598,
+                4136790.6507
+            ]
+        },
+        "coordinate": [
+            106.42315924742657,
+            37.35447960973129,
+            1422.0
+        ]
+    },
+    {
+        "uid": 140,
+        "towerID": "J3",
+        "properties": {
+            "elevation": 1420.0,
+            "serial": 8,
+            "angle": 273.0985650054337,
+            "nominalHeight": 18.0,
+            "kValue": 1.056,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626145.94,
+                4136843.612
+            ]
+        },
+        "coordinate": [
+            106.4250625592635,
+            37.35493384816891,
+            1420.0
+        ]
+    },
+    {
+        "uid": 141,
+        "towerID": "G9",
+        "properties": {
+            "elevation": 1407.0,
+            "serial": 9,
+            "angle": 270.0000064799459,
+            "nominalHeight": 24.0,
+            "kValue": 1.135,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626494.5345,
+                4136999.8357
+            ]
+        },
+        "coordinate": [
+            106.42902265746393,
+            37.35629356738128,
+            1407.0
+        ]
+    },
+    {
+        "uid": 142,
+        "towerID": "J4",
+        "properties": {
+            "elevation": 1404.0,
+            "serial": 10,
+            "angle": 277.3860522952872,
+            "nominalHeight": 18.0,
+            "kValue": 0.661,
+            "towerModel": "35B08-J1",
+            "towerClass": 1,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626648.478,
+                4137068.826
+            ]
+        },
+        "coordinate": [
+            106.43077152856678,
+            37.35689399279779,
+            1404.0
+        ]
+    },
+    {
+        "uid": 143,
+        "towerID": "G11",
+        "properties": {
+            "elevation": 1399.0,
+            "serial": 11,
+            "angle": 90.00000303953878,
+            "nominalHeight": 21.0,
+            "kValue": 1.083,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626780.5002,
+                4137186.7206
+            ]
+        },
+        "coordinate": [
+            106.43228143911995,
+            37.357937890791185,
+            1399.0
+        ]
+    },
+    {
+        "uid": 144,
+        "towerID": "G12",
+        "properties": {
+            "elevation": 1397.0,
+            "serial": 12,
+            "angle": 90.00000262032145,
+            "nominalHeight": 15.0,
+            "kValue": 0.921,
+            "towerModel": "35B08-Z1",
+            "towerClass": 0,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35626963.2428,
+                4137349.908
+            ]
+        },
+        "coordinate": [
+            106.43437149715282,
+            37.359382800422594,
+            1397.0
+        ]
+    },
+    {
+        "uid": 145,
+        "towerID": "J5",
+        "properties": {
+            "elevation": 1395.0,
+            "serial": 13,
+            "angle": 138.23545708746104,
+            "nominalHeight": 12.0,
+            "kValue": 0.539,
+            "towerModel": "35B08-J4",
+            "towerClass": 1,
+            "lineID": [
+                "4T"
+            ],
+            "start": -1,
+            "xycoordinate": [
+                35627099.279,
+                4137471.387
+            ]
+        },
+        "coordinate": [
+            106.43592741803798,
+            37.36045838620983,
+            1395.0
+        ]
+    }
+]

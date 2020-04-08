@@ -1,0 +1,842 @@
+[
+    {
+        "id": "T1",
+        "properties": {
+            "elevation": 1422.69995,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G35",
+            "xycoordinate": [
+                35619758.0,
+                4142882.0
+            ]
+        },
+        "coordinate": [
+            106.35395949836322,
+            37.41017248848467,
+            1422.69995
+        ]
+    },
+    {
+        "id": "T2",
+        "properties": {
+            "elevation": 1393.94702,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G42",
+            "xycoordinate": [
+                35621624.0,
+                4142697.0
+            ]
+        },
+        "coordinate": [
+            106.37500029984207,
+            37.40826285660749,
+            1393.94702
+        ]
+    },
+    {
+        "id": "T3",
+        "properties": {
+            "elevation": 1410.0,
+            "lineID": "1T",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G7",
+            "xycoordinate": [
+                35621230.0,
+                4142442.0
+            ]
+        },
+        "coordinate": [
+            106.37050944030922,
+            37.40601758106534,
+            1410.0
+        ]
+    },
+    {
+        "id": "T5",
+        "properties": {
+            "elevation": 1435.0,
+            "lineID": "1T",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G3",
+            "xycoordinate": [
+                35620635.0,
+                4141712.0
+            ]
+        },
+        "coordinate": [
+            106.3636717510896,
+            37.399519699134515,
+            1435.0
+        ]
+    },
+    {
+        "id": "T6",
+        "properties": {
+            "elevation": 1451.54797,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G30",
+            "xycoordinate": [
+                35620281.0,
+                4141473.0
+            ]
+        },
+        "coordinate": [
+            106.35963596299837,
+            37.39741290271426,
+            1451.54797
+        ]
+    },
+    {
+        "id": "T7",
+        "properties": {
+            "elevation": 1416.849,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G30",
+            "xycoordinate": [
+                35621722.0,
+                4141476.0
+            ]
+        },
+        "coordinate": [
+            106.37590575623415,
+            37.39725169948796,
+            1416.849
+        ]
+    },
+    {
+        "id": "T8",
+        "properties": {
+            "elevation": 1445.06702,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G26",
+            "xycoordinate": [
+                35621133.0,
+                4140761.0
+            ]
+        },
+        "coordinate": [
+            106.3691386244894,
+            37.390888444059,
+            1445.06702
+        ]
+    },
+    {
+        "id": "T9",
+        "properties": {
+            "elevation": 1475.0,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G21",
+            "xycoordinate": [
+                35621563.0,
+                4139429.0
+            ]
+        },
+        "coordinate": [
+            106.37377406765535,
+            37.37883395814596,
+            1475.0
+        ]
+    },
+    {
+        "id": "T10",
+        "properties": {
+            "elevation": 1441.146,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G18",
+            "xycoordinate": [
+                35622335.0,
+                4139747.0
+            ]
+        },
+        "coordinate": [
+            106.38254057588306,
+            37.38159681714975,
+            1441.146
+        ]
+    },
+    {
+        "id": "T13",
+        "properties": {
+            "elevation": 1395.81995,
+            "lineID": "3",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G12",
+            "xycoordinate": [
+                35623736.0,
+                4140884.0
+            ]
+        },
+        "coordinate": [
+            106.39854504374249,
+            37.391652421615895,
+            1395.81995
+        ]
+    },
+    {
+        "id": "T14",
+        "properties": {
+            "elevation": 1477.72803,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G17",
+            "xycoordinate": [
+                35622230.0,
+                4138468.0
+            ]
+        },
+        "coordinate": [
+            106.38114404957824,
+            37.370089921567484,
+            1477.72803
+        ]
+    },
+    {
+        "id": "T16",
+        "properties": {
+            "elevation": 1422.58398,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G10",
+            "xycoordinate": [
+                35623891.0,
+                4139381.0
+            ]
+        },
+        "coordinate": [
+            106.40004309240628,
+            37.37809338367757,
+            1422.58398
+        ]
+    },
+    {
+        "id": "T17",
+        "properties": {
+            "elevation": 1396.38403,
+            "lineID": "3",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G8",
+            "xycoordinate": [
+                35624679.0,
+                4140133.0
+            ]
+        },
+        "coordinate": [
+            106.40906417741213,
+            37.38476138211676,
+            1396.38403
+        ]
+    },
+    {
+        "id": "T18",
+        "properties": {
+            "elevation": 1384.56299,
+            "lineID": "3T1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G3",
+            "xycoordinate": [
+                35625614.0,
+                4140259.0
+            ]
+        },
+        "coordinate": [
+            106.41964001618355,
+            37.38577006913094,
+            1384.56299
+        ]
+    },
+    {
+        "id": "T19",
+        "properties": {
+            "elevation": 1411.73804,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G8",
+            "xycoordinate": [
+                35624295.0,
+                4139721.0
+            ]
+        },
+        "coordinate": [
+            106.40466026332277,
+            37.38110186217907,
+            1411.73804
+        ]
+    },
+    {
+        "id": "T20",
+        "properties": {
+            "elevation": 1377.44299,
+            "lineID": "3T1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G5",
+            "xycoordinate": [
+                35625596.0,
+                4140771.0
+            ]
+        },
+        "coordinate": [
+            106.41952379233717,
+            37.390384325948915,
+            1377.44299
+        ]
+    },
+    {
+        "id": "T21",
+        "properties": {
+            "elevation": 1376.87402,
+            "lineID": "3T2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G4",
+            "xycoordinate": [
+                35626997.0,
+                4139170.0
+            ]
+        },
+        "coordinate": [
+            106.43506470200383,
+            37.375772524343226,
+            1376.87402
+        ]
+    },
+    {
+        "id": "T22",
+        "properties": {
+            "elevation": 1368.79297,
+            "lineID": "3T2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G6",
+            "xycoordinate": [
+                35627379.0,
+                4139342.0
+            ]
+        },
+        "coordinate": [
+            106.43940583900805,
+            37.377269391301425,
+            1368.79297
+        ]
+    },
+    {
+        "id": "T23",
+        "properties": {
+            "elevation": 1453.68994,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G20",
+            "xycoordinate": [
+                35621907.0,
+                4139656.0
+            ]
+        },
+        "coordinate": [
+            106.37769436835941,
+            37.380833514057336,
+            1453.68994
+        ]
+    },
+    {
+        "id": "T24",
+        "properties": {
+            "elevation": 1415.0,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G6",
+            "xycoordinate": [
+                35625077.0,
+                4138859.0
+            ]
+        },
+        "coordinate": [
+            106.4133414715208,
+            37.37323220918805,
+            1415.0
+        ]
+    },
+    {
+        "id": "T25",
+        "properties": {
+            "elevation": 1429.43201,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G9",
+            "xycoordinate": [
+                35624441.0,
+                4138525.0
+            ]
+        },
+        "coordinate": [
+            106.40610710607119,
+            37.370309271581796,
+            1429.43201
+        ]
+    },
+    {
+        "id": "T26",
+        "properties": {
+            "elevation": 1443.46594,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G14",
+            "xycoordinate": [
+                35623164.0,
+                4139014.0
+            ]
+        },
+        "coordinate": [
+            106.39177614774606,
+            37.37488447703632,
+            1443.46594
+        ]
+    },
+    {
+        "id": "T27",
+        "properties": {
+            "elevation": 1456.30103,
+            "lineID": "4",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G15",
+            "xycoordinate": [
+                35624166.0,
+                4137132.0
+            ]
+        },
+        "coordinate": [
+            106.40276979947485,
+            37.35779860935786,
+            1456.30103
+        ]
+    },
+    {
+        "id": "T29",
+        "properties": {
+            "elevation": 1426.39697,
+            "lineID": "4",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G11",
+            "xycoordinate": [
+                35625167.0,
+                4137631.0
+            ]
+        },
+        "coordinate": [
+            106.41414959142094,
+            37.362158845109015,
+            1426.39697
+        ]
+    },
+    {
+        "id": "T30",
+        "properties": {
+            "elevation": 1398.578,
+            "lineID": "4",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G7",
+            "xycoordinate": [
+                35626220.0,
+                4137985.0
+            ]
+        },
+        "coordinate": [
+            106.42609278947529,
+            37.36520479740285,
+            1398.578
+        ]
+    },
+    {
+        "id": "T31",
+        "properties": {
+            "elevation": 1396.31897,
+            "lineID": "4T",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G13",
+            "xycoordinate": [
+                35627128.0,
+                4137448.0
+            ]
+        },
+        "coordinate": [
+            106.43624750284314,
+            37.36024379374686,
+            1396.31897
+        ]
+    },
+    {
+        "id": "T32",
+        "properties": {
+            "elevation": 1405.49402,
+            "lineID": "4T",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G10",
+            "xycoordinate": [
+                35626669.0,
+                4137038.0
+            ]
+        },
+        "coordinate": [
+            106.43099782474492,
+            37.356613527163134,
+            1405.49402
+        ]
+    },
+    {
+        "id": "T33",
+        "properties": {
+            "elevation": 1418.07202,
+            "lineID": "4T",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G8",
+            "xycoordinate": [
+                35626156.0,
+                4136808.0
+            ]
+        },
+        "coordinate": [
+            106.42517000703046,
+            37.35461170581573,
+            1418.07202
+        ]
+    },
+    {
+        "id": "T34",
+        "properties": {
+            "elevation": 1431.75403,
+            "lineID": "4T",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G5",
+            "xycoordinate": [
+                35625500.0,
+                4136646.0
+            ]
+        },
+        "coordinate": [
+            106.41774049467425,
+            37.353241453693656,
+            1431.75403
+        ]
+    },
+    {
+        "id": "T35",
+        "properties": {
+            "elevation": 1486.76904,
+            "lineID": "4",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G19",
+            "xycoordinate": [
+                35623403.0,
+                4136494.0
+            ]
+        },
+        "coordinate": [
+            106.39405363391266,
+            37.35215356723124,
+            1486.76904
+        ]
+    },
+    {
+        "id": "T36",
+        "properties": {
+            "elevation": 1471.13,
+            "lineID": "4",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G17",
+            "xycoordinate": [
+                35623847.0,
+                4136639.0
+            ]
+        },
+        "coordinate": [
+            106.39908769636729,
+            37.35340051174157,
+            1471.13
+        ]
+    },
+    {
+        "id": "T38",
+        "properties": {
+            "elevation": 1403.995,
+            "lineID": "3",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G15",
+            "xycoordinate": [
+                35622962.0,
+                4140942.0
+            ]
+        },
+        "coordinate": [
+            106.38981676021191,
+            37.392277899958344,
+            1403.995
+        ]
+    },
+    {
+        "id": "T39",
+        "properties": {
+            "elevation": 1461.13098,
+            "lineID": "1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G26",
+            "xycoordinate": [
+                35620797.0,
+                4140534.0
+            ]
+        },
+        "coordinate": [
+            106.365308322394,
+            37.388887570764595,
+            1461.13098
+        ]
+    },
+    {
+        "id": "T42",
+        "properties": {
+            "elevation": 1435.0,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G28",
+            "xycoordinate": [
+                35621364.0,
+                4141144.0
+            ]
+        },
+        "coordinate": [
+            106.37180933267862,
+            37.394308138945014,
+            1435.0
+        ]
+    },
+    {
+        "id": "T43",
+        "properties": {
+            "elevation": 1368.375,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G40",
+            "xycoordinate": [
+                35621836.0,
+                4143007.0
+            ]
+        },
+        "coordinate": [
+            106.37744531410503,
+            37.41102733853314,
+            1368.375
+        ]
+    },
+    {
+        "id": "T44",
+        "properties": {
+            "elevation": 1383.89099,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G34",
+            "xycoordinate": [
+                35622630.0,
+                4141922.0
+            ]
+        },
+        "coordinate": [
+            106.38623126837543,
+            37.40114932052549,
+            1383.89099
+        ]
+    },
+    {
+        "id": "T46",
+        "properties": {
+            "elevation": 1370.0,
+            "lineID": "3T1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G9",
+            "xycoordinate": [
+                35626349.0,
+                4140586.0
+            ]
+        },
+        "coordinate": [
+            106.42799277078433,
+            37.38861558471444,
+            1370.0
+        ]
+    },
+    {
+        "id": "T47",
+        "properties": {
+            "elevation": 1380.0,
+            "lineID": "3T1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G14",
+            "xycoordinate": [
+                35626239.0,
+                4139414.0
+            ]
+        },
+        "coordinate": [
+            106.42655097360584,
+            37.378073862577324,
+            1380.0
+        ]
+    },
+    {
+        "id": "T48",
+        "properties": {
+            "elevation": 1371.573,
+            "lineID": "3T1",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G12",
+            "xycoordinate": [
+                35626568.0,
+                4139825.0
+            ]
+        },
+        "coordinate": [
+            106.43033475186645,
+            37.38173105477401,
+            1371.573
+        ]
+    },
+    {
+        "id": "T45",
+        "properties": {
+            "elevation": 1367.06494,
+            "lineID": "2",
+            "type": "GW140/2500",
+            "hubHeight": 90.0,
+            "baseDia": 18.0,
+            "baseDp": 3.3,
+            "towerID": "G36",
+            "xycoordinate": [
+                35622922.0,
+                4142492.0
+            ]
+        },
+        "coordinate": [
+            106.38962300165176,
+            37.4062449169817,
+            1367.06494
+        ]
+    }
+]

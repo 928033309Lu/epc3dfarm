@@ -1,0 +1,131 @@
+// 全局滚动条样式
+/*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+    background-color: rgba(255, 255, 255, 0.2) !important;
+
+}
+
+/*定义滚动条轨道 内阴影+圆角*/
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+    background-color: rgba(3, 32, 62, 0.6);
+}
+
+/*定义滑块 内阴影+圆角*/
+::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px !important;
+    border: 0.5px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+//全局表格背景
+.el-table {
+    background: rgba(0, 0, 0, 0);
+}
+
+//全局文字提示
+.el-tooltip__popper[x-placement^=top] {
+    margin-bottom: 6px !important; //default=12
+}
+
+//全局下拉框
+.el-popper[x-placement^=bottom] {
+    margin-top: 0;
+}
+
+.el-popper[x-placement^=bottom] .popper__arrow {
+    opacity: 0;
+}
+
+.el-select-dropdown {
+    background: rgba(0, 0, 0, 0.2);
+    border-color: rgba(244, 244, 244, 0.6) !important;
+    border-radius: initial;
+}
+
+.el-select-dropdown__item {
+    color: rgba(212, 239, 246, .6);
+}
+
+.el-select-dropdown__item.hover {
+    background: rgba(1, 24, 48, 0.4);
+    color: #FFFFFF;
+}
+
+.el-select-dropdown__item:hover {
+    background: rgba(1, 24, 48, 0.4);
+    color: #FFFFFF;
+}
+
+.el-select-dropdown__item.selected {
+    background: rgba(1, 24, 48, 0.4);
+    color: #FFFFFF;
+}
+
+.el-select-dropdown__list {
+    padding: 0;
+}
+
+//全局复选框样式
+.el-checkbox__inner {
+    background-color: inherit;
+}
+
+.el-checkbox__inner::after {
+    border-color: black;
+}
+
+.el-checkbox__inner:focus,
+.el-checkbox__inner:hover {
+    border-color: #f0f0f0;
+}
+
+.el-checkbox__input.is-checked .el-checkbox__inner,
+.el-checkbox__input.is-indeterminate .el-checkbox__inner {
+    background-color: #f0f0f0;
+    border-color: #f0f0f0;
+}
+
+.el-checkbox__input.is-indeterminate .el-checkbox__inner::before {
+    background-color: black;
+}
+
+.el-checkbox__input.is-focus .el-checkbox__inner {
+    border-color: #f0f0f0;
+}
+
+//全局单选框
+.el-radio__inner {
+    background-color: inherit;
+}
+
+.el-radio__inner::after {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.el-radio__input.is-checked .el-radio__inner {
+    border-color: #f0f0f0;
+    background: #f0f0f0;
+}
+
+.el-radio__inner:hover {
+    border-color: #f0f0f0;
+}
+
+//表格
+.el-table__body-wrapper {
+    .current-row>td {
+        background-color: rgba(0, 0, 0, 0.3) !important;
+    }
+
+    tr {
+        background-color: rgba(0, 0, 0, 0);
+
+        &:hover>td {
+            background-color: rgba(0, 0, 0, 0.3) !important;
+        }
+    }
+}

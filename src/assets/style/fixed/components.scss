@@ -1,0 +1,212 @@
+.custom-window {
+    .custom-title {
+        @include toolbox-tree-text;
+
+        padding: 9px 10px 10px 17px;
+        color: white;
+        height: 40px;
+        background: $header-color;
+        border-bottom: 1px solid rgba(0, 0, 0, 1);
+        opacity: 0.8;
+
+        .title-icon {
+            font-size: 14px;
+        }
+
+        .btn-icon {
+            font-size: 14px;
+            cursor: pointer;
+            position: absolute;
+            right: 10px;
+        }
+    }
+}
+
+.custom-widget {
+    position: absolute;
+    // top: 100px;
+    // left: 325px;
+    // width: 360px;
+    // height: 485px;
+
+    background: rgba(74, 74, 82, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    opacity: 0.85;
+    z-index: 9999;
+
+    .widget-close-btn {
+        position: absolute;
+        right: 10px;
+        top: 8px;
+        font-size: 12px;
+        color: #cccccc;
+        z-index: 1;
+        cursor: pointer;
+    }
+
+    .widget-header {
+        height: 32px;
+        background: #343439;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black !important;
+        opacity: 0.8;
+        cursor: move;
+
+        .nav-item {
+            .custom-widget-link {
+                @include default-font;
+                opacity: 0.6;
+                color: rgba(255, 255, 255, 1) !important;
+                padding: 6px 20px 4px !important;
+                background: unset !important;
+                border: unset !important;
+                border-radius: unset !important;
+            }
+
+            .custom-widget-link.active {
+                background: #4a4a52 !important;
+                opacity: 0.85;
+                border-right: 1px solid black !important;
+                border-left: 1px solid black !important;
+            }
+        }
+    }
+
+    .widget-footer {
+        padding: 12px 10px;
+        text-align: right;
+    }
+}
+
+.toolbox-tree {
+    .list-group {
+        background: rgba(74, 74, 82, 1);
+
+        .list-group-item {
+            @include toolbox-tree-text;
+            background: $header-color;
+
+            height: 30px;
+            opacity: 0.9;
+            border-radius: 2px;
+            padding: 5px 0px 3px 24px;
+            margin: 3px 11px;
+
+            .indent,
+            .icon {
+                display: none;
+            }
+        }
+
+        .list-group-item:first-child {
+            border-top-left-radius: unset;
+            border-top-right-radius: unset;
+        }
+
+        .list-group-item:hover {
+            background-color: aqua;
+        }
+
+        .list-parent-item {
+            @include toolbox-tree-text;
+
+            background: unset;
+            margin: unset;
+            padding: 2px 14px 0px;
+            border-radius: unset;
+
+            .expand-icon {
+                display: inline;
+            }
+        }
+
+        .list-parent-item:hover {
+            background-color: unset !important;
+        }
+    }
+
+
+}
+
+.icon-selector {
+    .dropdown-content {
+        right: 10px;
+    }
+}
+
+.drag-widget {
+    position: absolute;
+    top: 100px;
+    left: 325px;
+    width: 360px;
+    // height: 485px;
+    background: rgba(74, 74, 82, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    opacity: 0.85;
+    z-index: 400;
+
+    .widget-header {
+        padding: 8px 0 0px 21px;
+        height: 24px;
+        font-size: 14px;
+        font-family: Source Han Sans CN;
+        font-weight: 400;
+        color: rgba(255, 255, 255, 1);
+        background: $header-color;
+        border-bottom: 1px solid rgba(0, 0, 0, 1);
+        opacity: 0.8;
+        cursor: move;
+    }
+
+    .widget-content {
+        position: absolute;
+        overflow: hidden;
+        top: 32px;
+        bottom: 0;
+        width: 100%;
+
+        #btn-group {
+            margin: 0 10px 0;
+        }
+    }
+
+    .widget-close-btn {
+        position: absolute;
+        right: 10px;
+        top: 7px;
+        cursor: pointer;
+        z-index: 1;
+        color: #CCCCCC;
+    }
+
+}
+
+.drag-tab-widget {
+    position: absolute;
+    top: 100px;
+    left: 325px;
+    width: 360px;
+    // height: 485px;
+    background: rgba(74, 74, 82, 1);
+    border: 1px solid rgba(0, 0, 0, 1);
+    opacity: 0.85;
+    z-index: 400;
+
+
+
+    .widget-content {
+        height: 100%;
+
+        #btn-group {
+            margin: 0 10px 0;
+        }
+    }
+
+    .widget-close-btn {
+        position: absolute;
+        right: 10px;
+        top: 8px;
+        cursor: pointer;
+        z-index: 1;
+    }
+}

@@ -1,0 +1,272 @@
+// .el-loading-mask {
+// background-color: unset !important;
+// }
+
+.el-loading-spinner .path {
+    stroke: $header-color !important;
+    stroke-width: 3px !important;
+}
+
+.gold-button {
+    @include btn-font;
+    width: 50px;
+    height: 20px;
+    color: rgba(240, 240, 240, 1) !important;
+    background: rgba(255, 255, 255, 0) !important;
+    border: 1px solid rgba(108, 108, 108, 1) !important;
+    border-radius: 2px !important;
+
+    &:hover {
+        background: rgba(108, 108, 108, 1) !important;
+        color: rgba(255, 255, 255, 1) !important;
+    }
+
+    span {
+        position: relative;
+        top: -6px;
+        left: -10px;
+    }
+}
+
+.gold-button.is-disabled {
+    opacity: 0.5;
+}
+
+.gold-button.is-disabled:hover {
+    opacity: 0.5;
+    background: rgba(255, 255, 255, 0) !important;
+    color: rgba(240, 240, 240, 1) !important;
+}
+
+
+.gold-form {
+    user-select: none;
+
+    .el-form-item {
+        .el-form-item__label {
+            font-size: 14px;
+            font-family: Source Han Sans CN;
+            font-weight: 400;
+            color: rgba(240, 240, 240, 1);
+        }
+
+    }
+}
+
+.el-tabs {
+    .el-tabs__nav-scroll {
+        height: 32px;
+        background: $header-color;
+        border-bottom: 1px solid rgba(0, 0, 0, 1);
+        opacity: 0.8;
+        cursor: move;
+
+        .el-tabs__nav {
+            border: none !important;
+
+            .el-tabs__item {
+                border: none !important;
+                height: 32px;
+
+                span {
+                    font-size: 14px;
+                    font-family: Source Han Sans CN;
+                    font-weight: 400;
+                    color: rgba(255, 255, 255, 1);
+                    opacity: 0.6;
+                    position: relative;
+                    top: -3px;
+
+                    &:hover {
+                        opacity: 1;
+                    }
+                }
+
+            }
+
+            .el-tabs__item.is-active {
+                background: #4a4a52;
+                opacity: 0.85;
+                border-right: 1px solid rgba(0, 0, 0, 1) !important;
+                border-left: 1px solid rgba(0, 0, 0, 1) !important;
+
+                span {
+                    opacity: 1;
+
+                }
+            }
+        }
+    }
+}
+
+// .gold-select {
+//     .el-input__inner {
+//         font-size: 14px;
+//         font-family: PingFangSC-Regular;
+//         font-weight: 400;
+//         color: rgba(163, 167, 184, 1);
+
+//         background: rgba(52, 52, 57, 1);
+//         border: 1px solid $el-border-color !important;
+//         border-radius: 0px;
+//         opacity: 0.7;
+//     }
+
+//     .el-input__inner:hover {
+//         border-color: $el-border-hover-color !important;
+//         opacity: $el-bg-opacity !important;
+//     }
+
+//     .el-input__inner:focus {
+//         border-color: $el-border-hover-color !important;
+//         opacity: $el-bg-opacity !important;
+//     }
+
+//     .el-input__suffix .el-input__suffix-inner .el-input__count .el-input__count-inner {
+//         background: none !important;
+//     }
+
+// }
+
+.gold-form-input {
+    @include default-font;
+    color: rgba(240, 240, 240, 0.8);
+    user-select: text;
+
+    .el-input__inner,
+    .el-textarea__inner {
+        background: $header-color;
+        border: 1px solid rgba(108, 108, 108, 1);
+        opacity: 0.8;
+        border-radius: 2px;
+        height: 32px;
+        @include default-font;
+        color: $text-color;
+    }
+
+    .el-input__inner:hover,
+    .el-textarea__inner:hover,
+    .el-input__inner:focus,
+    .el-textarea__inner:focus {
+        border-color: $el-border-color;
+        outline: 0;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075),
+            0 0 8px rgba(102, 175, 233, .6);
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075),
+            0 0 8px rgba(102, 175, 233, .6)
+    }
+
+    /* input的placeholder样式 */
+    input::-webkit-input-placeholder {
+        color: $text-color;
+        opacity: 0.7;
+    }
+
+    .el-input-number__decrease,
+    .el-input-number__increase {
+        border-radius: 0 !important;
+        border-left: 1px solid $el-border-color !important;
+        background: none;
+        font-size: 17px;
+        color: $el-border-color !important;
+    }
+
+    .el-input-number__increase {
+        border-bottom: 1px solid $el-border-color !important;
+    }
+
+    .el-input-number__decrease:hover,
+    .el-input-number__increase:hover {
+        color: $el-border-hover-color !important;
+        opacity: $el-bg-opacity !important;
+    }
+
+    .el-input__suffix .el-input__suffix-inner .el-input__count .el-input__count-inner {
+        background: none !important;
+    }
+
+    .el-input-group__append {
+        background-color: unset !important;
+        border-top: 1px solid $el-border-color !important;
+        border-bottom: 1px solid $el-border-color !important;
+        border-right: 1px solid $el-border-color !important;
+        border-left: unset;
+        opacity: 0.7;
+        border-radius: 0px;
+        user-select: none;
+    }
+}
+
+.el-input.is-disabled {
+    .el-input__inner {
+        background-color: #404048 !important;
+    }
+
+    .el-input__inner:hover {
+        border-color: $el-border-color !important;
+    }
+}
+
+
+// .el-dropdown-menu {
+//     background: rgba(194, 194, 196, 1);
+//     border-radius: 4px;
+//     padding: 5px 0 4px !important;
+
+//     .el-dropdown-menu__item {
+//         font-size: 13px;
+//         font-family: PingFangSC-Regular;
+//         font-weight: 400;
+//         color: rgba(52, 52, 57, 1);
+//         line-height: 20px;
+//         opacity: 0.7;
+//         padding: 4px 7px 5px 7px;
+//     }
+
+//     .el-dropdown-menu__item:hover {
+//         opacity: 1;
+//         color: rgba(52, 52, 57, 1) !important;
+//     }
+// }
+
+// .el-cascader__dropdown {
+//     background: rgba(194, 194, 196, 1) !important;
+//     border-radius: 4px;
+//     border: none;
+// }
+
+// .el-checkbox {
+//     .el-checkbox__input {
+//         .el-checkbox__inner {
+//             background-color: #B4B8CC !important;
+//             border: 1px solid rgba(162, 167, 186, 1) !important;
+//             border-color: rgba(162, 167, 186, 1) !important;
+//             // opacity: 0.5;
+//             border-radius: 2px;
+//         }
+
+//         .el-checkbox__inner:after {
+//             border-color: $el-border-color !important;
+//             background-color: #F0F0F0 !important;
+//         }
+
+//         .el-checkbox__inner:hover {
+//             border: 1px solid $el-border-color !important;
+//             border-color: $el-border-color !important;
+//         }
+
+//     }
+
+//     .el-checkbox__label {
+//         font-size: 14px;
+//         font-family: PingFangSC-Light;
+//         font-weight: 300;
+//         color: #F0F0F0 !important;
+//         line-height: 30px;
+//         // opacity: 0.5;
+//     }
+
+//     .el-checkbox__label:hover {
+//         color: #F0F0F0 !important;
+//     }
+// }

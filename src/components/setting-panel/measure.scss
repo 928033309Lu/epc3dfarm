@@ -1,0 +1,133 @@
+
+.tool-opacity /deep/ .el-input-number.is-without-controls .el-input__inner {
+    background: rgba(25, 28, 54, 0.7) !important;
+    color: #f0f0f0 !important;
+    padding: 0 !important;
+    border: none !important;
+    height: 20px !important;
+    width: 35px !important;
+    line-height: 20px;
+    font-size: 12px;
+  }
+  .tool-opacity /deep/ .el-slider__input {
+    width: 33px !important;
+  }
+  .tool-opacity /deep/ .el-slider {
+    width: 165px !important;
+    position: absolute;
+    top: -3px;
+    left: 55px;
+  }
+  .tool-opacity /deep/ .el-slider__runway.show-input {
+    margin-right: 50px !important;
+  }
+  .tool-opacity /deep/ .el-slider__runway,
+  .tool-opacity /deep/ .el-slider__bar {
+    height: 4px !important;
+    background-color: #343439 !important;
+  }
+  .tool-opacity /deep/ .el-slider__button {
+    width: 20px;
+    height: 15px;
+    background: rgba(240, 240, 240, 1);
+    border-radius: 2px;
+    border: none;
+    position: relative;
+    top: -2px;
+  }
+  .clearDarw {
+    cursor: pointer;
+  }
+  
+  .measure-panel {
+    color: #f0f0f0;
+    .title {
+      background: #343439;
+      height: 40px;
+      line-height: 40px;
+      padding: 0 10px;
+      font-size: 14px;
+      margin: 0;
+    }
+    .content {
+      padding: 10px 10px 0 10px;
+      font-size: 12px;
+      .tool {
+        display: flex;
+        height: 30px;
+        line-height: 30px;
+        margin-bottom: 10px;
+        .iconfont {
+          font-size: 20px;
+        }
+        & > div:nth-of-type(1) {
+          width: 40px;
+        }
+        & > div:nth-of-type(2) {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          flex: 1;
+          cursor: pointer;
+          text-align: center;
+          & > span {
+            display: inline-block;
+            width: 34px;
+            height: 26px;
+            line-height: 26px;
+            outline: none;
+            // background: #343439;
+          }
+        }
+      }
+      .tool-color {
+        & > div:nth-of-type(2) > div {
+          display: inline-block;
+          width: 34px;
+          height: 26px;
+          position: relative;
+          // background: #343439;
+        }
+      }
+      .tool-opacity {
+        position: relative;
+        height: 30px;
+        line-height: 30px;
+        .danwei {
+          position: absolute;
+          right: 10px;
+          top: 1px;
+        }
+      }
+    }
+  }
+  .colorBg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  .activeCol {
+    background: #343439;
+  }
+  
+  .red {
+    background: #ff0000;
+  }
+  .pink {
+    background: #ff00d8;
+  }
+  .yellow {
+    background: #ffea00;
+  }
+  .blue {
+    background: #00aeff;
+  }
+  .green {
+    background: #00ff2a;
+  }
